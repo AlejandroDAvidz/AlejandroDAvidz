@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-27T09:48:08.531Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="mhn2AvuL_6Kny-8RvLke" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-27T09:51:54.636Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ZPjV1UJ9LRRaeU8bK2Kc" version="24.3.1" type="github">
   <diagram name="Page-1" id="9CWoTmQFCjU30tzJ5nmx">
-    <mxGraphModel dx="1038" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,7 +63,7 @@
         <mxCell id="JEmahKvNL_3gt_A3U07T-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JEmahKvNL_3gt_A3U07T-16" target="JEmahKvNL_3gt_A3U07T-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JEmahKvNL_3gt_A3U07T-16" value="&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;PER -&amp;nbsp;&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 13px; text-align: start;&quot;&gt;Price earning ratio&lt;/span&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;+ le PER est bas et - l’action est chère = sous evalué&lt;span style=&quot;forced-color-adjust: none;&quot; class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;PER &amp;lt; 10 —&amp;gt; l’action est potentiellement sous-évalué" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JEmahKvNL_3gt_A3U07T-16" value="&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="548.13" y="160" width="167.5" height="105" as="geometry" />
         </mxCell>
         <mxCell id="JEmahKvNL_3gt_A3U07T-23" value="Ressources" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
