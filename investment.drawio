@@ -1,11 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2024-04-27T09:32:37.614Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="bw588NG7A2rBaUUE9kcz" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-27T09:42:11.905Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Q8lxwIyygLEqpbhXlIM3" version="24.3.1" type="github">
   <diagram name="Page-1" id="9CWoTmQFCjU30tzJ5nmx">
-    <mxGraphModel dx="954" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PkTWI40CO61aeuiKAk7o-1" value="DCA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PkTWI40CO61aeuiKAk7o-1" value="DCA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JEmahKvNL_3gt_A3U07T-2" target="JEmahKvNL_3gt_A3U07T-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-2" value="&lt;b&gt;Strategie 1 -&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 13px; text-align: start; background-color: initial;&quot;&gt;35%&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;Investir sur des actions sous évaluées" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="70" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JEmahKvNL_3gt_A3U07T-6" target="JEmahKvNL_3gt_A3U07T-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-6" value="&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;PER -&amp;nbsp;&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 13px; text-align: start;&quot;&gt;Price earning ratio&lt;/span&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;+ le PER est bas et - l’action est chère = sous evalué&lt;span style=&quot;forced-color-adjust: none;&quot; class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;PER &amp;lt; 10 —&amp;gt; l’action est potentiellement sous-évalué" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="146.25" y="160" width="167.5" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-8" value="Ressources" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="148.13" y="300" width="163.75" height="30" as="geometry">
+            <mxRectangle x="148.13" y="300" width="180" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-9" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(220, 161, 13);&quot; class=&quot;p1&quot;&gt;&lt;a href=&quot;https://www.abcbourse.com/analyses/per&quot;&gt;https://www.abcbourse.com/analyses/per&lt;/a&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot; class=&quot;s1&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="JEmahKvNL_3gt_A3U07T-8">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-10" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(220, 161, 13);&quot; class=&quot;p1&quot;&gt;&lt;a href=&quot;https://www.gurufocus.com/term/iv_dcf_share/STLA/Intrinsic-Value:-Projected-FCF/STLA&quot;&gt;https://www.gurufocus.com/term/iv_dcf_share/STLA/Intrinsic-Value:-Projected-FCF/STLA&lt;/a&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="JEmahKvNL_3gt_A3U07T-8">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-11" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;Google —&amp;gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp; &lt;/span&gt;palmarès de PER / «&amp;nbsp;Company&amp;nbsp;» intrinsec value&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="JEmahKvNL_3gt_A3U07T-8">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-13" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;&lt;b&gt;Stratégie 2 - 15%&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;p1&quot;&gt;Investir sur des actions à fort potentiel&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="70" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-14" value="&lt;b&gt;Strategie 3 - 50%&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;br&gt;Investir sur des ETFs" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="540" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
