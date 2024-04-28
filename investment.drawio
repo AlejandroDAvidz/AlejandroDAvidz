@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-27T16:34:15.947Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="BBiaWUCoyOc0oKWIGVBG" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-28T14:54:03.810Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="PvJFVFAa4vSFK4kAKBLX" version="24.3.1" type="github">
   <diagram name="Page-1" id="9CWoTmQFCjU30tzJ5nmx">
-    <mxGraphModel dx="2335" dy="2562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1099" dy="1824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,7 +91,7 @@
         <mxCell id="JEmahKvNL_3gt_A3U07T-29" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(220, 161, 13);&quot; class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="JEmahKvNL_3gt_A3U07T-27">
           <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JEmahKvNL_3gt_A3U07T-33" value="DCA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JEmahKvNL_3gt_A3U07T-33" value="DCA Achat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="-20" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JEmahKvNL_3gt_A3U07T-35" value="Indicateurs Crypto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -311,6 +311,246 @@
         </mxCell>
         <mxCell id="JEmahKvNL_3gt_A3U07T-152" value="&lt;span style=&quot;font-size: 13px; background-color: rgb(255, 255, 255); color: var(--tw-prose-bold); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; white-space-collapse: preserve; border: 0px solid rgb(227, 227, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; font-weight: 600;&quot;&gt;Utilisation avec d&#39;autres indicateurs&lt;/span&gt;&lt;span style=&quot;font-size: 13px; background-color: rgb(255, 255, 255); color: rgb(13, 13, 13); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; white-space-collapse: preserve;&quot;&gt; : Les retracements de Fibonacci sont souvent utilisés en conjonction avec d&#39;autres indicateurs techniques pour confirmer les signaux de trading. Par exemple, un retracement de Fibonacci près d&#39;un niveau de support ou de résistance historique peut être confirmé par un signal de surachat ou de survente d&#39;un oscillateur comme le RSI.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="930" y="3350" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JEmahKvNL_3gt_A3U07T-184" target="JEmahKvNL_3gt_A3U07T-163">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1093.93" y="65.0666666666666" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JEmahKvNL_3gt_A3U07T-184" target="JEmahKvNL_3gt_A3U07T-171">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1133.93" y="80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JEmahKvNL_3gt_A3U07T-163" target="JEmahKvNL_3gt_A3U07T-282">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="826.93" y="150" />
+              <mxPoint x="826.93" y="273" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-284" value="100%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JEmahKvNL_3gt_A3U07T-283">
+          <mxGeometry x="0.7706" y="-1" relative="1" as="geometry">
+            <mxPoint x="-17" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-163" value="&lt;div&gt;Stratégie 1 - si le rendement de l&#39;investissement est de 50%&lt;/div&gt;&lt;div&gt;Récupérer 10% de l&#39;investissement&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="843.93" y="100" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-273" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JEmahKvNL_3gt_A3U07T-171" target="JEmahKvNL_3gt_A3U07T-270">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1026.93" y="150" />
+              <mxPoint x="1026.93" y="273" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-274" value="50%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JEmahKvNL_3gt_A3U07T-273">
+          <mxGeometry x="0.823" y="-1" relative="1" as="geometry">
+            <mxPoint x="-17" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JEmahKvNL_3gt_A3U07T-171" target="JEmahKvNL_3gt_A3U07T-275">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1026.93" y="150" />
+              <mxPoint x="1026.93" y="313" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-279" value="25%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JEmahKvNL_3gt_A3U07T-278">
+          <mxGeometry x="0.6381" relative="1" as="geometry">
+            <mxPoint x="-12" y="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-280" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JEmahKvNL_3gt_A3U07T-171" target="JEmahKvNL_3gt_A3U07T-276">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-281" value="25%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JEmahKvNL_3gt_A3U07T-280">
+          <mxGeometry x="0.6938" relative="1" as="geometry">
+            <mxPoint x="-12" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-171" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Stratégie 2 - si le rendement de l&#39;investissement est de 100%&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;Récupérer 30% de l&#39;investissement&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1046.93" y="100" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-309" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JEmahKvNL_3gt_A3U07T-173" target="JEmahKvNL_3gt_A3U07T-300">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1216.93" y="151.5" />
+              <mxPoint x="1216.93" y="275.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-315" value="30%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JEmahKvNL_3gt_A3U07T-309">
+          <mxGeometry x="0.8061" y="-1" relative="1" as="geometry">
+            <mxPoint x="-14" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-310" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JEmahKvNL_3gt_A3U07T-173" target="JEmahKvNL_3gt_A3U07T-301">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1216.93" y="151.5" />
+              <mxPoint x="1216.93" y="315.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-316" value="35%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JEmahKvNL_3gt_A3U07T-310">
+          <mxGeometry x="0.8564" y="-1" relative="1" as="geometry">
+            <mxPoint x="-16" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JEmahKvNL_3gt_A3U07T-173" target="JEmahKvNL_3gt_A3U07T-302">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1216.93" y="151.5" />
+              <mxPoint x="1216.93" y="363.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-317" value="35%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JEmahKvNL_3gt_A3U07T-311">
+          <mxGeometry x="0.8842" relative="1" as="geometry">
+            <mxPoint x="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-173" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Stratégie 3 - si le rendement de l&#39;investissement est de 200%&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;Récupérer 50% de l&#39;investissement&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1236.93" y="100" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JEmahKvNL_3gt_A3U07T-184" target="JEmahKvNL_3gt_A3U07T-211">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JEmahKvNL_3gt_A3U07T-184" target="JEmahKvNL_3gt_A3U07T-212">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JEmahKvNL_3gt_A3U07T-184" target="JEmahKvNL_3gt_A3U07T-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-184" value="DCA Vente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1266.93" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-312" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JEmahKvNL_3gt_A3U07T-211" target="JEmahKvNL_3gt_A3U07T-303">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1416.93" y="151.5" />
+              <mxPoint x="1416.93" y="267.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-318" value="30%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JEmahKvNL_3gt_A3U07T-312">
+          <mxGeometry x="0.8304" y="-1" relative="1" as="geometry">
+            <mxPoint x="-17" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-313" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JEmahKvNL_3gt_A3U07T-211" target="JEmahKvNL_3gt_A3U07T-304">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1416.93" y="151.5" />
+              <mxPoint x="1416.93" y="307.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-319" value="35%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JEmahKvNL_3gt_A3U07T-313">
+          <mxGeometry x="0.8716" y="-1" relative="1" as="geometry">
+            <mxPoint x="-18" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-314" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JEmahKvNL_3gt_A3U07T-211" target="JEmahKvNL_3gt_A3U07T-305">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1416.93" y="151.5" />
+              <mxPoint x="1416.93" y="356.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-320" value="35%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JEmahKvNL_3gt_A3U07T-314">
+          <mxGeometry x="0.8974" relative="1" as="geometry">
+            <mxPoint x="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-211" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Stratégie 4 - si le rendement de l&#39;investissement est de 300%&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;Récupérer 70% de l&#39;investissement&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1436.93" y="100" width="140" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-321" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JEmahKvNL_3gt_A3U07T-212" target="JEmahKvNL_3gt_A3U07T-306">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1626.93" y="151.5" />
+              <mxPoint x="1626.93" y="267.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-324" value="30%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JEmahKvNL_3gt_A3U07T-321">
+          <mxGeometry x="0.8" relative="1" as="geometry">
+            <mxPoint x="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-322" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="JEmahKvNL_3gt_A3U07T-212" target="JEmahKvNL_3gt_A3U07T-307">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1626.93" y="151.5" />
+              <mxPoint x="1626.93" y="313.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-325" value="35%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JEmahKvNL_3gt_A3U07T-322">
+          <mxGeometry x="0.8676" relative="1" as="geometry">
+            <mxPoint x="-17" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-323" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JEmahKvNL_3gt_A3U07T-212" target="JEmahKvNL_3gt_A3U07T-308">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1626.93" y="151.5" />
+              <mxPoint x="1626.93" y="356.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-326" value="35%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JEmahKvNL_3gt_A3U07T-323">
+          <mxGeometry x="0.8755" y="-2" relative="1" as="geometry">
+            <mxPoint x="-16" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-212" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Stratégie 5 - si le rendement de l&#39;investissement est =&amp;gt; 500%&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;Récupérer 100% de l&#39;investissement&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1636.93" y="100" width="140" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-270" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Stacking&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1046.93" y="260" width="123" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-275" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Re-investir&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1046.93" y="300" width="123" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-276" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Re-investir en Bear Market&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1046.93" y="342.5" width="123" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-282" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Stacking&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="852.43" y="260" width="123" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-300" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Stacking&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1236.93" y="262.5" width="123" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-301" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Re-investir&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1236.93" y="302.5" width="123" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-302" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Re-investir en Bear Market&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1236.93" y="345" width="123" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-303" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Stacking&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1435.43" y="255" width="123" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-304" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Re-investir&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1435.43" y="295" width="123" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-305" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Re-investir en Bear Market&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1435.43" y="337.5" width="123" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-306" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Stacking&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1646.93" y="255" width="123" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-307" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Re-investir&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1646.93" y="295" width="123" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="JEmahKvNL_3gt_A3U07T-308" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Re-investir en Bear Market&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1646.93" y="337.5" width="123" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
