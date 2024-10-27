@@ -4,122 +4,122 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-71" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-71" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="90" y="40" width="1860" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-70" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-70" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="50" y="540" width="1270" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-1" target="WtHiP-zUXW_M2bAxR0jx-6">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-1" target="WtHiP-zUXW_M2bAxR0jx-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-1" value="Vitalik Buterin&lt;br&gt;&lt;div&gt;Principal créateur et cerveau derrière Ethereum&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-1" value="Vitalik Buterin&lt;br&gt;&lt;div&gt;Principal créateur et cerveau derrière Ethereum&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="130" y="180" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-2" target="WtHiP-zUXW_M2bAxR0jx-1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-2" target="WtHiP-zUXW_M2bAxR0jx-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="210" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-2" target="WtHiP-zUXW_M2bAxR0jx-3">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-2" target="WtHiP-zUXW_M2bAxR0jx-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-2" target="WtHiP-zUXW_M2bAxR0jx-7">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-2" target="WtHiP-zUXW_M2bAxR0jx-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-2" target="WtHiP-zUXW_M2bAxR0jx-10">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-2" target="WtHiP-zUXW_M2bAxR0jx-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-2" target="WtHiP-zUXW_M2bAxR0jx-15">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-2" target="WtHiP-zUXW_M2bAxR0jx-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-2" target="WtHiP-zUXW_M2bAxR0jx-16">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-2" target="WtHiP-zUXW_M2bAxR0jx-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-2" target="WtHiP-zUXW_M2bAxR0jx-18">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-2" target="WtHiP-zUXW_M2bAxR0jx-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-2" target="WtHiP-zUXW_M2bAxR0jx-20">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-2" target="WtHiP-zUXW_M2bAxR0jx-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-2" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Ethereum&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;2014&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-2" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Ethereum&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;2014&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="60" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-3" target="WtHiP-zUXW_M2bAxR0jx-4">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-3" target="WtHiP-zUXW_M2bAxR0jx-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-3" value="Gavin Wood&lt;div&gt;Co-créateur et principal développeur technique.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-3" value="Gavin Wood&lt;div&gt;Co-créateur et principal développeur technique.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="340" y="180" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-4" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Auteur du &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;langage de programmation Solidity&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Il a écrit le &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Livre jaune d&#39;Ethereum&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, la spécification technique officielle du protocole.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Fondateur de&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Parity Technologies&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; et lancé &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Polkadot&lt;/strong&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-4" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Auteur du &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;langage de programmation Solidity&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Il a écrit le &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Livre jaune d&#39;Ethereum&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, la spécification technique officielle du protocole.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Fondateur de&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Parity Technologies&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; et lancé &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Polkadot&lt;/strong&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="323.75" y="260" width="202.5" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-6" value="- Contributeur et cofondateur du magazine&amp;nbsp;&lt;strong&gt;Bitcoin Magazine&lt;/strong&gt;&lt;div&gt;&lt;strong&gt;- D&#39;apps&lt;/strong&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-6" value="- Contributeur et cofondateur du magazine&amp;nbsp;&lt;strong&gt;Bitcoin Magazine&lt;/strong&gt;&lt;div&gt;&lt;strong&gt;- D&#39;apps&lt;/strong&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="108.75" y="260" width="202.5" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-7" target="WtHiP-zUXW_M2bAxR0jx-8">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-7" target="WtHiP-zUXW_M2bAxR0jx-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-7" value="&lt;div&gt;Joseph Lubin&lt;br&gt;&lt;/div&gt;&lt;div&gt;Co-fondateur et entrepreneur&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-7" value="&lt;div&gt;Joseph Lubin&lt;br&gt;&lt;/div&gt;&lt;div&gt;Co-fondateur et entrepreneur&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="556.25" y="180" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-8" value="- Gestion des aspects business et organisationnels d’Ethereum.&amp;nbsp;&lt;div&gt;- Fondateur de&amp;nbsp;&lt;strong&gt;ConsenSys&lt;/strong&gt;, une entreprise qui développe des applications et des infrastructures pour Ethereum&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-8" value="- Gestion des aspects business et organisationnels d’Ethereum.&amp;nbsp;&lt;div&gt;- Fondateur de&amp;nbsp;&lt;strong&gt;ConsenSys&lt;/strong&gt;, une entreprise qui développe des applications et des infrastructures pour Ethereum&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="540" y="260" width="202.5" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-9" value="&lt;div&gt;- Un des premiers investisseurs dans Ethereum.&lt;/div&gt;&lt;div&gt;- Fondateur de&amp;nbsp;&lt;strong&gt;Decentral&lt;/strong&gt;, une société spécialisée dans la blockchain basée à Toronto, ainsi que &lt;strong&gt;Jaxx&lt;/strong&gt;, un portefeuille de crypto-monnaies.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-9" value="&lt;div&gt;- Un des premiers investisseurs dans Ethereum.&lt;/div&gt;&lt;div&gt;- Fondateur de&amp;nbsp;&lt;strong&gt;Decentral&lt;/strong&gt;, une société spécialisée dans la blockchain basée à Toronto, ainsi que &lt;strong&gt;Jaxx&lt;/strong&gt;, un portefeuille de crypto-monnaies.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="770" y="260" width="202.5" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-10" target="WtHiP-zUXW_M2bAxR0jx-9">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-10" target="WtHiP-zUXW_M2bAxR0jx-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-10" value="&lt;div&gt;Anthony Di Iorio&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Co-fondateur et premier investisseur&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-10" value="&lt;div&gt;Anthony Di Iorio&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Co-fondateur et premier investisseur&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="786.25" y="180" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-11" value="&lt;div&gt;- Mathématicien et entrepreneur&lt;/div&gt;&lt;div&gt;- Il a contribué à la structure juridique et à l’organisation de l&#39;ICO d’Ethereum.&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Il a quitté le projet après un désaccord sur la gouvernance du projet (il voulait une structure commerciale, tandis que d&#39;autres souhaitaient rester non-profit).&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Fondateur de&amp;nbsp;&lt;strong&gt;IOHK&lt;/strong&gt;, l&#39;organisation derrière &lt;strong&gt;Cardano.&lt;/strong&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-11" value="&lt;div&gt;- Mathématicien et entrepreneur&lt;/div&gt;&lt;div&gt;- Il a contribué à la structure juridique et à l’organisation de l&#39;ICO d’Ethereum.&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Il a quitté le projet après un désaccord sur la gouvernance du projet (il voulait une structure commerciale, tandis que d&#39;autres souhaitaient rester non-profit).&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Fondateur de&amp;nbsp;&lt;strong&gt;IOHK&lt;/strong&gt;, l&#39;organisation derrière &lt;strong&gt;Cardano.&lt;/strong&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1000" y="260" width="202.5" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-13" value="&lt;div&gt;&amp;nbsp;-Il a travaillé sur la mise en place de la &lt;strong&gt;Fondation Ethereum&lt;/strong&gt; en Suisse et a contribué à gérer les premiers aspects organisationnels du projet.&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Cofondateur de &lt;strong&gt;Bitcoin Magazine&lt;/strong&gt; avec Buterin.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-13" value="&lt;div&gt;&amp;nbsp;-Il a travaillé sur la mise en place de la &lt;strong&gt;Fondation Ethereum&lt;/strong&gt; en Suisse et a contribué à gérer les premiers aspects organisationnels du projet.&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Cofondateur de &lt;strong&gt;Bitcoin Magazine&lt;/strong&gt; avec Buterin.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1230" y="260" width="202.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-15" target="WtHiP-zUXW_M2bAxR0jx-11">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-15" target="WtHiP-zUXW_M2bAxR0jx-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-15" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Charles Hoskinson&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Co-fondateur et premier CEO&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-15" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Charles Hoskinson&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Co-fondateur et premier CEO&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1016.25" y="180" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-16" target="WtHiP-zUXW_M2bAxR0jx-13">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-16" target="WtHiP-zUXW_M2bAxR0jx-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-16" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mihai Alisie&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Co-fondateur et co-architecte de la structure légale.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-16" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mihai Alisie&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Co-fondateur et co-architecte de la structure légale.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1246.25" y="180" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-17" value="&lt;div&gt;- Ila participé aux débuts du projet Ethereum mais s&#39;est rapidement éloigné des aspects techniques et de la gestion.&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Son rôle dans la fondation est moins visible.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-17" value="&lt;div&gt;- Ila participé aux débuts du projet Ethereum mais s&#39;est rapidement éloigné des aspects techniques et de la gestion.&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Son rôle dans la fondation est moins visible.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1470" y="260" width="202.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-18" target="WtHiP-zUXW_M2bAxR0jx-17">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-18" target="WtHiP-zUXW_M2bAxR0jx-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-18" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Amir Chetrit&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Co-fondateur&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-18" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Amir Chetrit&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Co-fondateur&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1486.25" y="180" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-19" value="&lt;div&gt;- Il a travaillé sur l&#39;implémentation de &lt;strong&gt;Go Ethereum (Geth)&lt;/strong&gt;, une version d&#39;Ethereum écrite dans le langage de programmation Go.&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-19" value="&lt;div&gt;- Il a travaillé sur l&#39;implémentation de &lt;strong&gt;Go Ethereum (Geth)&lt;/strong&gt;, une version d&#39;Ethereum écrite dans le langage de programmation Go.&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1710" y="260" width="202.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-20" target="WtHiP-zUXW_M2bAxR0jx-19">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-20" target="WtHiP-zUXW_M2bAxR0jx-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-20" value="&lt;div&gt;Jeffrey Wilcke&lt;br&gt;&lt;/div&gt;&lt;div&gt;Co-fondateur et développeur principal.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-20" value="&lt;div&gt;Jeffrey Wilcke&lt;br&gt;&lt;/div&gt;&lt;div&gt;Co-fondateur et développeur principal.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1726.25" y="180" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-30" target="WtHiP-zUXW_M2bAxR0jx-31">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-30" target="WtHiP-zUXW_M2bAxR0jx-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-30" target="WtHiP-zUXW_M2bAxR0jx-36">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-30" target="WtHiP-zUXW_M2bAxR0jx-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-30" target="WtHiP-zUXW_M2bAxR0jx-37">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-30" target="WtHiP-zUXW_M2bAxR0jx-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="682" y="760" />
@@ -127,7 +127,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-30" target="WtHiP-zUXW_M2bAxR0jx-35">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-30" target="WtHiP-zUXW_M2bAxR0jx-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="682" y="760" />
@@ -135,7 +135,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-30" target="WtHiP-zUXW_M2bAxR0jx-34">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-30" target="WtHiP-zUXW_M2bAxR0jx-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="682" y="760" />
@@ -143,7 +143,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-30" target="WtHiP-zUXW_M2bAxR0jx-38">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-30" target="WtHiP-zUXW_M2bAxR0jx-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="682" y="760" />
@@ -151,92 +151,95 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-30" value="&lt;b&gt;ConsenSys&lt;/b&gt;&lt;div&gt;Consensus + Systems&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-30" value="&lt;b&gt;ConsenSys&lt;/b&gt;&lt;div&gt;Consensus + Systems&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="622.5" y="585" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-31" value="Développer des systèmes technologiques basés sur des mécanismes de consensus. Web3" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-31" value="Développer des systèmes technologiques basés sur des mécanismes de consensus. Web3" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="360" y="597.5" width="193.75" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-34" target="WtHiP-zUXW_M2bAxR0jx-53">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-34" target="WtHiP-zUXW_M2bAxR0jx-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-34" value="&lt;meta charset=&quot;utf-8&quot;&gt;Développement de la blockchain Ethereum" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-34" value="&lt;meta charset=&quot;utf-8&quot;&gt;Développement de la blockchain Ethereum" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-35" target="WtHiP-zUXW_M2bAxR0jx-52">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-35" target="WtHiP-zUXW_M2bAxR0jx-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-35" value="MetaMask" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-35" value="MetaMask" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-36" target="WtHiP-zUXW_M2bAxR0jx-51">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-36" target="WtHiP-zUXW_M2bAxR0jx-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-36" value="Infura" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-36" value="Infura" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="622.5" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-37" target="WtHiP-zUXW_M2bAxR0jx-50">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-37" target="WtHiP-zUXW_M2bAxR0jx-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-37" value="ConsenSys Quorum" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-37" value="ConsenSys Quorum" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="852.5" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WtHiP-zUXW_M2bAxR0jx-38" target="WtHiP-zUXW_M2bAxR0jx-48">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WtHiP-zUXW_M2bAxR0jx-38" target="WtHiP-zUXW_M2bAxR0jx-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-38" value="Codefi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-38" value="Codefi" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1082.5" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-48" value="- Plateforme pour les services financiers décentralisés.&amp;nbsp;&amp;nbsp;(DeFi).&lt;div&gt;- Elle fournit des outils pour la tokenisation, les paiements, les stablecoins, ainsi que la gestion de la gouvernance et de la conformité réglementaire.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-48" value="- Plateforme pour les services financiers décentralisés.&amp;nbsp;&amp;nbsp;(DeFi).&lt;div&gt;- Elle fournit des outils pour la tokenisation, les paiements, les stablecoins, ainsi que la gestion de la gouvernance et de la conformité réglementaire.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1038.75" y="920" width="207.5" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-50" value="- Plateforme open source qui permet de créer des réseaux blockchain privés et publics pour les entreprises.&lt;div&gt;- Basé sur Ethereum&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-50" value="- Plateforme open source qui permet de créer des réseaux blockchain privés et publics pour les entreprises.&lt;div&gt;- Basé sur Ethereum&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="809.38" y="920" width="207.5" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-51" value="- Il s’agit d’une infrastructure de type « node-as-a-service » qui permet aux développeurs d&#39;accéder au réseau Ethereum sans avoir à gérer leurs propres nœuds.&amp;nbsp;&lt;div&gt;- Elle facilite la connexion aux dApps, au réseau principal et aux chaînes latérales.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-51" value="- Il s’agit d’une infrastructure de type « node-as-a-service » qui permet aux développeurs d&#39;accéder au réseau Ethereum sans avoir à gérer leurs propres nœuds.&amp;nbsp;&lt;div&gt;- Elle facilite la connexion aux dApps, au réseau principal et aux chaînes latérales.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="579.38" y="920" width="207.5" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-52" value="- Un portefeuille de crypto-monnaies et une passerelle vers les dApps.&lt;div&gt;- Permet aux utilisateurs de gérer leurs actifs numériques, d&#39;interagir avec des dApps et de sécuriser leurs transactions via Ethereum et d&#39;autres réseaux compatibles.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-52" value="- Un portefeuille de crypto-monnaies et une passerelle vers les dApps.&lt;div&gt;- Permet aux utilisateurs de gérer leurs actifs numériques, d&#39;interagir avec des dApps et de sécuriser leurs transactions via Ethereum et d&#39;autres réseaux compatibles.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="346.25" y="920" width="207.5" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-53" value="- Plateforme pour les services financiers décentralisés.&amp;nbsp;&amp;nbsp;(DeFi).&lt;div&gt;- Elle fournit des outils pour la tokenisation, les paiements, les stablecoins, ainsi que la gestion de la gouvernance et de la conformité réglementaire.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-53" value="- Plateforme pour les services financiers décentralisés.&amp;nbsp;&amp;nbsp;(DeFi).&lt;div&gt;- Elle fournit des outils pour la tokenisation, les paiements, les stablecoins, ainsi que la gestion de la gouvernance et de la conformité réglementaire.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="106.25" y="920" width="207.5" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-65" value="&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Un Projet Exclusivement Financier DeFi.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;gestion des&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;identités numériques&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;gouvernance décentralisée (DAO)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, les&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;NFTs&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, et l&#39;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;interopérabilité&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;h3 style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;Un Organisme Centralisé,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;ConsenSys défend activement les principes de&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;décentralisation.&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-65" value="&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Un Projet Exclusivement Financier DeFi.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;gestion des&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;identités numériques&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, la&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;gouvernance décentralisée (DAO)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, les&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;NFTs&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, et l&#39;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;interopérabilité&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;h3 style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;Un Organisme Centralisé,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;ConsenSys défend activement les principes de&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;décentralisation.&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="566.25" width="276.75" height="117.5" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-67" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-67" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="760" y="610" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-68" value="" style="group" vertex="1" connectable="0" parent="WtHiP-zUXW_M2bAxR0jx-67">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-68" value="" style="group" parent="WtHiP-zUXW_M2bAxR0jx-67" vertex="1" connectable="0">
           <mxGeometry width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-60" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WtHiP-zUXW_M2bAxR0jx-68" source="WtHiP-zUXW_M2bAxR0jx-30">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-60" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WtHiP-zUXW_M2bAxR0jx-68" source="WtHiP-zUXW_M2bAxR0jx-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-30" y="200" as="sourcePoint" />
             <mxPoint x="10" y="15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-61" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WtHiP-zUXW_M2bAxR0jx-68">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-61" value="" style="endArrow=none;html=1;rounded=0;" parent="WtHiP-zUXW_M2bAxR0jx-68" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="30" as="sourcePoint" />
             <mxPoint x="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-62" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WtHiP-zUXW_M2bAxR0jx-68">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-62" value="" style="endArrow=none;html=1;rounded=0;" parent="WtHiP-zUXW_M2bAxR0jx-68" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="30" as="sourcePoint" />
             <mxPoint x="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-63" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WtHiP-zUXW_M2bAxR0jx-68" target="WtHiP-zUXW_M2bAxR0jx-65">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-63" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WtHiP-zUXW_M2bAxR0jx-68" target="WtHiP-zUXW_M2bAxR0jx-65" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="30" y="14.740000000000009" as="sourcePoint" />
             <mxPoint x="80" y="13.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WtHiP-zUXW_M2bAxR0jx-69" value="Activités et Produits" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WtHiP-zUXW_M2bAxR0jx-69" value="Activités et Produits" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="690" y="710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="560" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
