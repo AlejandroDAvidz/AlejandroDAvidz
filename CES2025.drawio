@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Page-1" id="_voRB7Y6iMDA6GGgN8ft">
-    <mxGraphModel dx="1061" dy="603" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1486" dy="844" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -378,6 +378,14 @@
         <mxCell id="YJABB3gAFSu8hfhxD6bR-2" value="&amp;nbsp;Hardware wallets" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="696.25" y="1820" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="1MkHPFC1iVQuffIMI8So-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJABB3gAFSu8hfhxD6bR-3" target="YJABB3gAFSu8hfhxD6bR-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="787" y="1495" />
+              <mxPoint x="787" y="1600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YJABB3gAFSu8hfhxD6bR-3" value="Hot Wallets" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="836.25" y="1480" width="133" height="30" as="geometry" />
         </mxCell>
@@ -412,6 +420,14 @@
         <mxCell id="YJABB3gAFSu8hfhxD6bR-9" value="Non-Custodial wallets" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="606.25" y="1480" width="133.75" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1MkHPFC1iVQuffIMI8So-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJABB3gAFSu8hfhxD6bR-10" target="YJABB3gAFSu8hfhxD6bR-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1046" y="1495" />
+              <mxPoint x="1046" y="1600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YJABB3gAFSu8hfhxD6bR-10" value="Cold Wallets" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1082.5" y="1480" width="133.75" height="30" as="geometry" />
         </mxCell>
@@ -422,13 +438,10 @@
           <mxGeometry x="596.25" y="1550" width="153.75" height="110" as="geometry" />
         </mxCell>
         <mxCell id="YJABB3gAFSu8hfhxD6bR-13" value="&lt;br&gt;Il sont &lt;strong&gt;toujours connectés à Internet&lt;/strong&gt;. Ils sont principalement utilisés pour les transactions rapides et les interactions fréquentes avec des dApps&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="807" y="1540" width="173" height="90" as="geometry" />
+          <mxGeometry x="807" y="1540" width="173" height="120" as="geometry" />
         </mxCell>
         <mxCell id="YJABB3gAFSu8hfhxD6bR-14" value="&lt;strong&gt;Il ne sont pas connectés à Internet&lt;/strong&gt; et sont utilisés pour stocker les cryptomonnaies de manière sécurisée, à long terme." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1066.25" y="1540" width="163.75" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="YJABB3gAFSu8hfhxD6bR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="YJABB3gAFSu8hfhxD6bR-14" target="YJABB3gAFSu8hfhxD6bR-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1066.25" y="1540" width="163.75" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
