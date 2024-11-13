@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Page-1" id="_voRB7Y6iMDA6GGgN8ft">
-    <mxGraphModel dx="991" dy="563" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1651" dy="938" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1MkHPFC1iVQuffIMI8So-28" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1220" width="1060" height="760" as="geometry" />
+          <mxGeometry x="220" y="1220" width="1060" height="760" as="geometry" />
         </mxCell>
         <mxCell id="3sWl9bdjO9z3tYgHTGhD-47" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="2790" y="60" width="1660" height="620" as="geometry" />
@@ -582,9 +582,6 @@
         </mxCell>
         <mxCell id="1MkHPFC1iVQuffIMI8So-31" value="Trust Wallet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1450" y="2150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1MkHPFC1iVQuffIMI8So-33" value="- Metamask&lt;div&gt;- Trustwallet&lt;/div&gt;&lt;div&gt;- Rabby&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
