@@ -372,6 +372,38 @@
             <mxPoint x="50" y="14.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1MkHPFC1iVQuffIMI8So-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJABB3gAFSu8hfhxD6bR-1" target="YJABB3gAFSu8hfhxD6bR-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="1440" />
+              <mxPoint x="410" y="1440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MkHPFC1iVQuffIMI8So-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJABB3gAFSu8hfhxD6bR-1" target="YJABB3gAFSu8hfhxD6bR-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="1440" />
+              <mxPoint x="623" y="1440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MkHPFC1iVQuffIMI8So-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJABB3gAFSu8hfhxD6bR-1" target="YJABB3gAFSu8hfhxD6bR-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="1440" />
+              <mxPoint x="916" y="1440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MkHPFC1iVQuffIMI8So-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YJABB3gAFSu8hfhxD6bR-1" target="YJABB3gAFSu8hfhxD6bR-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="1440" />
+              <mxPoint x="1149" y="1440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YJABB3gAFSu8hfhxD6bR-1" value="&lt;b&gt;Portefeuilles numériques&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="1290" width="120" height="80" as="geometry" />
         </mxCell>
@@ -393,7 +425,7 @@
           <mxGeometry x="560" y="1820" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YJABB3gAFSu8hfhxD6bR-5" value="Browser Wallets&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="830" y="1720" width="110" height="40" as="geometry" />
+          <mxGeometry x="850" y="1700" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YJABB3gAFSu8hfhxD6bR-7" value="Mobile Wallets&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="2050" width="123" height="40" as="geometry" />
@@ -470,8 +502,47 @@
         <mxCell id="YJABB3gAFSu8hfhxD6bR-12" value="&#xa; l&#39;utilisateur &lt;strong&gt;gère et contrôle ses propres clés privées&lt;/strong&gt;.&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="546.25" y="1550" width="153.75" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="1MkHPFC1iVQuffIMI8So-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJABB3gAFSu8hfhxD6bR-13" target="YJABB3gAFSu8hfhxD6bR-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="907" y="1680" />
+              <mxPoint x="820" y="1680" />
+              <mxPoint x="820" y="1720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MkHPFC1iVQuffIMI8So-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJABB3gAFSu8hfhxD6bR-13" target="1MkHPFC1iVQuffIMI8So-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="907" y="1680" />
+              <mxPoint x="820" y="1680" />
+              <mxPoint x="820" y="1780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MkHPFC1iVQuffIMI8So-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJABB3gAFSu8hfhxD6bR-13" target="1MkHPFC1iVQuffIMI8So-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="907" y="1680" />
+              <mxPoint x="820" y="1680" />
+              <mxPoint x="820" y="1840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YJABB3gAFSu8hfhxD6bR-13" value="&lt;br&gt;Il sont &lt;strong&gt;toujours connectés à Internet&lt;/strong&gt;. Ils sont principalement utilisés pour les transactions rapides et les interactions fréquentes avec des dApps&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="1540" width="173" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1MkHPFC1iVQuffIMI8So-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJABB3gAFSu8hfhxD6bR-14" target="1MkHPFC1iVQuffIMI8So-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1MkHPFC1iVQuffIMI8So-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJABB3gAFSu8hfhxD6bR-14" target="1MkHPFC1iVQuffIMI8So-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1148" y="1680" />
+              <mxPoint x="1080" y="1680" />
+              <mxPoint x="1080" y="1780" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YJABB3gAFSu8hfhxD6bR-14" value="&lt;strong&gt;Il ne sont pas connectés à Internet&lt;/strong&gt; et sont utilisés pour stocker les cryptomonnaies de manière sécurisée, à long terme." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1066.25" y="1540" width="163.75" height="120" as="geometry" />
@@ -484,6 +555,18 @@
         </mxCell>
         <mxCell id="1MkHPFC1iVQuffIMI8So-7" value="Custodial wallet services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="1750" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1MkHPFC1iVQuffIMI8So-13" value="Mobile Wallets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1760" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1MkHPFC1iVQuffIMI8So-14" value="Software Wallets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1820" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1MkHPFC1iVQuffIMI8So-15" value="Paper Wallets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1700" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1MkHPFC1iVQuffIMI8So-16" value="&amp;nbsp;Hardware wallets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1760" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
