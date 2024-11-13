@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Page-1" id="_voRB7Y6iMDA6GGgN8ft">
-    <mxGraphModel dx="1143" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1061" dy="603" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -372,25 +372,25 @@
             <mxPoint x="50" y="14.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YJABB3gAFSu8hfhxD6bR-1" value="&lt;b&gt;Portefeuilles numériques&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-1" value="&lt;b&gt;Portefeuilles numériques&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="716.25" y="1330" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YJABB3gAFSu8hfhxD6bR-2" value="&amp;nbsp;Hardware wallets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="972.38" y="1754" width="140" height="40" as="geometry" />
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-2" value="&amp;nbsp;Hardware wallets" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="696.25" y="1820" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YJABB3gAFSu8hfhxD6bR-3" value="Hot Wallets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="1480" width="133" height="30" as="geometry" />
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-3" value="Hot Wallets" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="836.25" y="1480" width="133" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YJABB3gAFSu8hfhxD6bR-4" value="Paper Wallets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="972.38" y="1680" width="123" height="40" as="geometry" />
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-4" value="Paper Wallets" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="556.25" y="1740" width="123" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YJABB3gAFSu8hfhxD6bR-5" value="Browser Wallets&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="367" y="1670" width="123" height="40" as="geometry" />
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-5" value="Browser Wallets&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1810" width="123" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YJABB3gAFSu8hfhxD6bR-7" value="Mobile Wallets&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="537" y="1670" width="123" height="40" as="geometry" />
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-7" value="Mobile Wallets&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="1810" width="123" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YJABB3gAFSu8hfhxD6bR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJABB3gAFSu8hfhxD6bR-8" target="YJABB3gAFSu8hfhxD6bR-11">
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YJABB3gAFSu8hfhxD6bR-8" target="YJABB3gAFSu8hfhxD6bR-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="299.92" y="1495" />
@@ -398,36 +398,36 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YJABB3gAFSu8hfhxD6bR-8" value="Custodial wallets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="319.92" y="1480" width="160.08" height="30" as="geometry" />
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-8" value="Custodial wallets" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="349.92" y="1480" width="120.08" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YJABB3gAFSu8hfhxD6bR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJABB3gAFSu8hfhxD6bR-9" target="YJABB3gAFSu8hfhxD6bR-12">
+        <mxCell id="1MkHPFC1iVQuffIMI8So-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJABB3gAFSu8hfhxD6bR-9" target="YJABB3gAFSu8hfhxD6bR-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="546" y="1495" />
-              <mxPoint x="546" y="1570" />
+              <mxPoint x="570" y="1495" />
+              <mxPoint x="570" y="1605" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YJABB3gAFSu8hfhxD6bR-9" value="Non-Custodial wallets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="566.25" y="1480" width="150" height="30" as="geometry" />
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-9" value="Non-Custodial wallets" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="606.25" y="1480" width="133.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YJABB3gAFSu8hfhxD6bR-10" value="Cold Wallets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1066.25" y="1480" width="133.75" height="30" as="geometry" />
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-10" value="Cold Wallets" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1082.5" y="1480" width="133.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YJABB3gAFSu8hfhxD6bR-11" value="Un &lt;strong&gt;tiers&lt;/strong&gt; (plateforme d&#39;échange, service de garde) gère les clés privées de l&#39;utilisateur." style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="321.42" y="1540" width="148.58" height="90" as="geometry" />
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-11" value="Un &lt;strong&gt;tiers&lt;/strong&gt; (plateforme d&#39;échange, service de garde) gère les clés privées de l&#39;utilisateur." style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="321.42" y="1540" width="148.58" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="YJABB3gAFSu8hfhxD6bR-12" value="&#xa; l&#39;utilisateur &lt;strong&gt;gère et contrôle ses propres clés privées&lt;/strong&gt;.&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="566.25" y="1540" width="153.75" height="60" as="geometry" />
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-12" value="&#xa; l&#39;utilisateur &lt;strong&gt;gère et contrôle ses propres clés privées&lt;/strong&gt;.&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="596.25" y="1550" width="153.75" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="YJABB3gAFSu8hfhxD6bR-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="1540" width="133" height="60" as="geometry" />
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-13" value="&lt;br&gt;Il sont &lt;strong&gt;toujours connectés à Internet&lt;/strong&gt;. Ils sont principalement utilisés pour les transactions rapides et les interactions fréquentes avec des dApps&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="807" y="1540" width="173" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YJABB3gAFSu8hfhxD6bR-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1066.25" y="1540" width="133.75" height="60" as="geometry" />
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-14" value="&lt;strong&gt;Il ne sont pas connectés à Internet&lt;/strong&gt; et sont utilisés pour stocker les cryptomonnaies de manière sécurisée, à long terme." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1066.25" y="1540" width="163.75" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YJABB3gAFSu8hfhxD6bR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YJABB3gAFSu8hfhxD6bR-14" target="YJABB3gAFSu8hfhxD6bR-14">
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="YJABB3gAFSu8hfhxD6bR-14" target="YJABB3gAFSu8hfhxD6bR-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
