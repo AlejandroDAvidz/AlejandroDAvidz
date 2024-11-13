@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Page-1" id="_voRB7Y6iMDA6GGgN8ft">
-    <mxGraphModel dx="1238" dy="703" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="330" dy="188" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1MkHPFC1iVQuffIMI8So-28" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1270" width="1040" height="620" as="geometry" />
+          <mxGeometry x="260" y="1270" width="1060" height="760" as="geometry" />
         </mxCell>
         <mxCell id="3sWl9bdjO9z3tYgHTGhD-47" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="2790" y="60" width="1660" height="620" as="geometry" />
@@ -410,8 +410,8 @@
         <mxCell id="YJABB3gAFSu8hfhxD6bR-1" value="&lt;b&gt;Portefeuilles numériques&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="1290" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YJABB3gAFSu8hfhxD6bR-2" value="&amp;nbsp;Hardware wallets" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="1760" width="110" height="40" as="geometry" />
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-2" value="&lt;b&gt;&amp;nbsp;Hardware wallets&lt;/b&gt;&lt;div&gt;(Ledger Nano S, Trezor)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="1800" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1MkHPFC1iVQuffIMI8So-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJABB3gAFSu8hfhxD6bR-3" target="YJABB3gAFSu8hfhxD6bR-13">
           <mxGeometry relative="1" as="geometry">
@@ -424,14 +424,11 @@
         <mxCell id="YJABB3gAFSu8hfhxD6bR-3" value="Hot Wallets" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="849.25" y="1480" width="133" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YJABB3gAFSu8hfhxD6bR-4" value="Paper Wallets" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="1820" width="110" height="40" as="geometry" />
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-4" value="&lt;b&gt;Paper Wallets&lt;/b&gt;&lt;div&gt;(&lt;span style=&quot;background-color: initial;&quot;&gt;bitaddress.org)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="1870" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YJABB3gAFSu8hfhxD6bR-5" value="Browser Wallets&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="1700" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="YJABB3gAFSu8hfhxD6bR-7" value="Mobile Wallets&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="2050" width="123" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1MkHPFC1iVQuffIMI8So-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJABB3gAFSu8hfhxD6bR-8" target="YJABB3gAFSu8hfhxD6bR-11">
           <mxGeometry relative="1" as="geometry">
@@ -482,14 +479,20 @@
           <mxGeometry x="321.42" y="1540" width="148.58" height="110" as="geometry" />
         </mxCell>
         <mxCell id="1MkHPFC1iVQuffIMI8So-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJABB3gAFSu8hfhxD6bR-12" target="1MkHPFC1iVQuffIMI8So-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="623" y="1680" />
+              <mxPoint x="480" y="1680" />
+              <mxPoint x="480" y="1740" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="1MkHPFC1iVQuffIMI8So-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJABB3gAFSu8hfhxD6bR-12" target="YJABB3gAFSu8hfhxD6bR-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="623" y="1680" />
               <mxPoint x="526" y="1680" />
-              <mxPoint x="526" y="1780" />
+              <mxPoint x="526" y="1820" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -498,7 +501,7 @@
             <Array as="points">
               <mxPoint x="623" y="1680" />
               <mxPoint x="526" y="1680" />
-              <mxPoint x="526" y="1840" />
+              <mxPoint x="526" y="1895" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -550,11 +553,11 @@
         <mxCell id="YJABB3gAFSu8hfhxD6bR-14" value="Il ne sont pas connectés à Internet et sont utilisés pour stocker les cryptomonnaies de manière sécurisée, à long terme." style="rounded=0;whiteSpace=wrap;html=1;align=center;fontStyle=0;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="1066.25" y="1540" width="163.75" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1MkHPFC1iVQuffIMI8So-5" value="Software Wallets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1700" width="110" height="40" as="geometry" />
+        <mxCell id="1MkHPFC1iVQuffIMI8So-5" value="&lt;b&gt;Software Wallets&lt;/b&gt;&lt;div&gt;(MetaMask (ordinateur), Trust Wallet (mobile).)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1700" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1MkHPFC1iVQuffIMI8So-6" value="CEX Wallets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1690" width="120" height="40" as="geometry" />
+        <mxCell id="1MkHPFC1iVQuffIMI8So-6" value="&lt;b&gt;CEX Wallets&lt;/b&gt;&lt;div&gt;(&lt;span style=&quot;background-color: initial;&quot;&gt;Coinbase Wallet,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Binance Wallet)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1690" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1MkHPFC1iVQuffIMI8So-7" value="Custodial wallet services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="1750" width="120" height="40" as="geometry" />
@@ -570,6 +573,18 @@
         </mxCell>
         <mxCell id="1MkHPFC1iVQuffIMI8So-16" value="&amp;nbsp;Hardware wallets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="1760" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1MkHPFC1iVQuffIMI8So-29" value="Metamask" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="1960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1MkHPFC1iVQuffIMI8So-30" value="Rabby" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="2050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1MkHPFC1iVQuffIMI8So-31" value="Trust Wallet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="2150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1MkHPFC1iVQuffIMI8So-33" value="- Metamask&lt;div&gt;- Trustwallet&lt;/div&gt;&lt;div&gt;- Rabby&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
