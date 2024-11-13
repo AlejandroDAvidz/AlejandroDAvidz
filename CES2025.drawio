@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Page-1" id="_voRB7Y6iMDA6GGgN8ft">
-    <mxGraphModel dx="1984" dy="1233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1238" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-47" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-47" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="2790" y="60" width="1660" height="620" as="geometry" />
         </mxCell>
         <mxCell id="WtHiP-zUXW_M2bAxR0jx-71" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
@@ -241,13 +241,13 @@
         <mxCell id="WtHiP-zUXW_M2bAxR0jx-69" value="Activités et Produits" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="690" y="710" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-1" value="Bitcoin&lt;div&gt;2009&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-1" value="Bitcoin&lt;div&gt;2009&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3565" y="730" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3sWl9bdjO9z3tYgHTGhD-2" target="3sWl9bdjO9z3tYgHTGhD-8">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3sWl9bdjO9z3tYgHTGhD-2" target="3sWl9bdjO9z3tYgHTGhD-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3sWl9bdjO9z3tYgHTGhD-2" target="3sWl9bdjO9z3tYgHTGhD-7">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3sWl9bdjO9z3tYgHTGhD-2" target="3sWl9bdjO9z3tYgHTGhD-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3625" y="270" />
@@ -255,7 +255,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3sWl9bdjO9z3tYgHTGhD-2" target="3sWl9bdjO9z3tYgHTGhD-5">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3sWl9bdjO9z3tYgHTGhD-2" target="3sWl9bdjO9z3tYgHTGhD-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3625" y="270" />
@@ -263,7 +263,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3sWl9bdjO9z3tYgHTGhD-2" target="3sWl9bdjO9z3tYgHTGhD-9">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3sWl9bdjO9z3tYgHTGhD-2" target="3sWl9bdjO9z3tYgHTGhD-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3625" y="270" />
@@ -271,7 +271,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3sWl9bdjO9z3tYgHTGhD-2" target="3sWl9bdjO9z3tYgHTGhD-21">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3sWl9bdjO9z3tYgHTGhD-2" target="3sWl9bdjO9z3tYgHTGhD-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3625" y="270" />
@@ -279,98 +279,137 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="3sWl9bdjO9z3tYgHTGhD-2" target="3sWl9bdjO9z3tYgHTGhD-31">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="3sWl9bdjO9z3tYgHTGhD-2" target="3sWl9bdjO9z3tYgHTGhD-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-2" value="Satoshi Nakamoto- 2008&lt;div&gt;Cyberpunks -&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;1980&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-2" value="Satoshi Nakamoto- 2008&lt;div&gt;Cyberpunks -&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;1980&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3550" y="157.5" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3sWl9bdjO9z3tYgHTGhD-3" target="3sWl9bdjO9z3tYgHTGhD-1">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3sWl9bdjO9z3tYgHTGhD-3" target="3sWl9bdjO9z3tYgHTGhD-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-3" value="- Système de cash électronique peer-to-peer.&lt;div&gt;-&lt;span style=&quot;background-color: initial;&quot;&gt;Bitcoin repose sur trois fondations principales : la décentralisation, la transparence et la sécurité.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-3" value="- Système de cash électronique peer-to-peer.&lt;div&gt;-&lt;span style=&quot;background-color: initial;&quot;&gt;Bitcoin repose sur trois fondations principales : la décentralisation, la transparence et la sécurité.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="3255" y="730" width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3sWl9bdjO9z3tYgHTGhD-5" target="3sWl9bdjO9z3tYgHTGhD-15">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3sWl9bdjO9z3tYgHTGhD-5" target="3sWl9bdjO9z3tYgHTGhD-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-5" value="Hal Finney" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-5" value="Hal Finney" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2935" y="320.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3sWl9bdjO9z3tYgHTGhD-7" target="3sWl9bdjO9z3tYgHTGhD-19">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3sWl9bdjO9z3tYgHTGhD-7" target="3sWl9bdjO9z3tYgHTGhD-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-7" value="Adam Back" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-7" value="Adam Back" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3250" y="320.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3sWl9bdjO9z3tYgHTGhD-8" target="3sWl9bdjO9z3tYgHTGhD-13">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3sWl9bdjO9z3tYgHTGhD-8" target="3sWl9bdjO9z3tYgHTGhD-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-8" value="Wei Dai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-8" value="Wei Dai" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3565" y="320.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3sWl9bdjO9z3tYgHTGhD-9" target="3sWl9bdjO9z3tYgHTGhD-14">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3sWl9bdjO9z3tYgHTGhD-9" target="3sWl9bdjO9z3tYgHTGhD-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-9" value="Nick Szabo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-9" value="Nick Szabo" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3885" y="320.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-13" value="&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;- En 1998, Wei Dai a créé le concept de&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;em style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;b-money&lt;/em&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;, un système de monnaie numérique anonyme et décentralisé, mentionné dans le livre blanc de Bitcoin comme une inspiration directe.&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;- B-money est l&#39;un des premiers systèmes à proposer un registre décentralisé pour les transactions, un concept central de Bitcoin.&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-13" value="&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;- En 1998, Wei Dai a créé le concept de&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;em style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;b-money&lt;/em&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;, un système de monnaie numérique anonyme et décentralisé, mentionné dans le livre blanc de Bitcoin comme une inspiration directe.&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;- B-money est l&#39;un des premiers systèmes à proposer un registre décentralisé pour les transactions, un concept central de Bitcoin.&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="3490" y="431.5" width="270" height="138.5" as="geometry" />
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-14" value="&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;- Cryptographe et cypherpunk influent, Il a développé le concept de “smart contracts” (contrats intelligents) et a introduit l’idée de&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;em style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Bit Gold&lt;/em&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;, une monnaie numérique décentralisée basée sur la preuve de travail, précurseur direct de Bitcoin.&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;- Ses écrits ont fortement influencé la conception de Bitcoin. Il a créé l’idée de valeur numérique rare, un concept clé de Bitcoin, même si Bit Gold n’a jamais été déployé à grande échelle.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-14" value="&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;- Cryptographe et cypherpunk influent, Il a développé le concept de “smart contracts” (contrats intelligents) et a introduit l’idée de&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;em style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Bit Gold&lt;/em&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;, une monnaie numérique décentralisée basée sur la preuve de travail, précurseur direct de Bitcoin.&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;- Ses écrits ont fortement influencé la conception de Bitcoin. Il a créé l’idée de valeur numérique rare, un concept clé de Bitcoin, même si Bit Gold n’a jamais été déployé à grande échelle.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="3810" y="431.5" width="270" height="178.5" as="geometry" />
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-15" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Développeur cypherpunk et l&#39;un des premiers partisans de Bitcoin, Hal Finney a travaillé avec Satoshi Nakamoto pour tester le réseau Bitcoin en 2009 et a reçu la première transaction Bitcoin jamais effectuée.&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Il a travaillé sur des concepts de “crypto-monnaie” avant Bitcoin, notamment avec&amp;nbsp;&lt;/span&gt;&lt;em style=&quot;background-color: initial;&quot;&gt;RPOW&lt;/em&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;(Reusable Proof of Work), une idée visant à réduire la centralisation en utilisant la preuve de travail.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-15" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Développeur cypherpunk et l&#39;un des premiers partisans de Bitcoin, Hal Finney a travaillé avec Satoshi Nakamoto pour tester le réseau Bitcoin en 2009 et a reçu la première transaction Bitcoin jamais effectuée.&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Il a travaillé sur des concepts de “crypto-monnaie” avant Bitcoin, notamment avec&amp;nbsp;&lt;/span&gt;&lt;em style=&quot;background-color: initial;&quot;&gt;RPOW&lt;/em&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;(Reusable Proof of Work), une idée visant à réduire la centralisation en utilisant la preuve de travail.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="2860" y="431.5" width="270" height="168.5" as="geometry" />
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-19" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Créateur de &lt;/span&gt;&lt;em style=&quot;background-color: initial;&quot;&gt;Hashcash&lt;/em&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, un mécanisme de preuve de travail utilisé dans Bitcoin pour sécuriser le réseau et empêcher le spam. Satoshi Nakamoto mentionne d&#39;ailleurs Hashcash dans le livre blanc de Bitcoin comme base du système de consensus.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Il est depuis devenu un membre influent de la communauté Bitcoin, et sa technologie Hashcash reste au cœur du protocole Bitcoin.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-19" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Créateur de &lt;/span&gt;&lt;em style=&quot;background-color: initial;&quot;&gt;Hashcash&lt;/em&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, un mécanisme de preuve de travail utilisé dans Bitcoin pour sécuriser le réseau et empêcher le spam. Satoshi Nakamoto mentionne d&#39;ailleurs Hashcash dans le livre blanc de Bitcoin comme base du système de consensus.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Il est depuis devenu un membre influent de la communauté Bitcoin, et sa technologie Hashcash reste au cœur du protocole Bitcoin.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="3170" y="431.5" width="280" height="148.5" as="geometry" />
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3sWl9bdjO9z3tYgHTGhD-21" target="3sWl9bdjO9z3tYgHTGhD-22">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3sWl9bdjO9z3tYgHTGhD-21" target="3sWl9bdjO9z3tYgHTGhD-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-21" value="&lt;meta charset=&quot;utf-8&quot;&gt;Peter Todd" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-21" value="&lt;meta charset=&quot;utf-8&quot;&gt;Peter Todd" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4185" y="320.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-22" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Il a joué un rôle central en examinant et en testant le code de Bitcoin, surtout en se concentrant sur des aspects cruciaux comme la résilience et la confidentialité.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;div&gt;- Il adopte une approche très prudente, favorisant des changements minimaux pour éviter des risques potentiels&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Contributions&amp;nbsp;&lt;/strong&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;- &lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mécanismes comme &lt;/span&gt;&lt;em style=&quot;background-color: initial;&quot;&gt;CoinJoin&lt;/em&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; et &lt;/span&gt;&lt;em style=&quot;background-color: initial;&quot;&gt;Confidential Transactions&lt;/em&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; pour réduire la traçabilité.&lt;/span&gt;&lt;br&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;- U&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;tilisation de schémas de signatures avancés, tels que les &lt;/span&gt;&lt;em style=&quot;background-color: initial;&quot;&gt;Schnorr signatures pour &lt;b&gt;o&lt;/b&gt;&lt;/em&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ptimiser la taille des transactions et la confidentialité du réseau&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-22" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Il a joué un rôle central en examinant et en testant le code de Bitcoin, surtout en se concentrant sur des aspects cruciaux comme la résilience et la confidentialité.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;div&gt;- Il adopte une approche très prudente, favorisant des changements minimaux pour éviter des risques potentiels&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Contributions&amp;nbsp;&lt;/strong&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;- &lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mécanismes comme &lt;/span&gt;&lt;em style=&quot;background-color: initial;&quot;&gt;CoinJoin&lt;/em&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; et &lt;/span&gt;&lt;em style=&quot;background-color: initial;&quot;&gt;Confidential Transactions&lt;/em&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; pour réduire la traçabilité.&lt;/span&gt;&lt;br&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;- U&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;tilisation de schémas de signatures avancés, tels que les &lt;/span&gt;&lt;em style=&quot;background-color: initial;&quot;&gt;Schnorr signatures pour &lt;b&gt;o&lt;/b&gt;&lt;/em&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ptimiser la taille des transactions et la confidentialité du réseau&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="4110" y="431.5" width="270" height="228.5" as="geometry" />
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-31" value="mouvement de militants technophiles qui militent pour l’utilisation de la cryptographie et des technologies de protection de la vie privée comme moyen de préserver la liberté individuelle, l’anonymat et la souveraineté des utilisateurs" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-31" value="mouvement de militants technophiles qui militent pour l’utilisation de la cryptographie et des technologies de protection de la vie privée comme moyen de préserver la liberté individuelle, l’anonymat et la souveraineté des utilisateurs" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="3210" y="127.5" width="260" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-33" value="- Pas uniquement un groupe de développeurs: Le mouvement inclut également des philosophes, des écrivains et des militants qui s&#39;intéressent à la protection de la vie privée et aux droits numériques.&lt;div&gt;- Il ne signifie pas qu&#39;ils aspirent nécessairement à un ordre anarchiste au sens traditionnel. L&#39;objectif est de créer des systèmes où les individus ont plus de contrôle sur leurs données et leur vie privée.&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Pas un groupe secret, listes de diffusions et forums&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-33" value="- Pas uniquement un groupe de développeurs: Le mouvement inclut également des philosophes, des écrivains et des militants qui s&#39;intéressent à la protection de la vie privée et aux droits numériques.&lt;div&gt;- Il ne signifie pas qu&#39;ils aspirent nécessairement à un ordre anarchiste au sens traditionnel. L&#39;objectif est de créer des systèmes où les individus ont plus de contrôle sur leurs données et leur vie privée.&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Pas un groupe secret, listes de diffusions et forums&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="3830" y="80" width="330" height="162.5" as="geometry" />
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-43" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-43" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="3700" y="167.5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-35" value="" style="group" vertex="1" connectable="0" parent="3sWl9bdjO9z3tYgHTGhD-43">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-35" value="" style="group" parent="3sWl9bdjO9z3tYgHTGhD-43" vertex="1" connectable="0">
           <mxGeometry x="50" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="3sWl9bdjO9z3tYgHTGhD-35">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-37" value="" style="endArrow=none;html=1;rounded=0;" parent="3sWl9bdjO9z3tYgHTGhD-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="30" as="sourcePoint" />
             <mxPoint x="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="3sWl9bdjO9z3tYgHTGhD-35">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-38" value="" style="endArrow=none;html=1;rounded=0;" parent="3sWl9bdjO9z3tYgHTGhD-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="30" as="sourcePoint" />
             <mxPoint x="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3sWl9bdjO9z3tYgHTGhD-35">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="3sWl9bdjO9z3tYgHTGhD-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="13.5" as="sourcePoint" />
             <mxPoint x="80" y="13.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3sWl9bdjO9z3tYgHTGhD-42" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3sWl9bdjO9z3tYgHTGhD-43">
+        <mxCell id="3sWl9bdjO9z3tYgHTGhD-42" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="3sWl9bdjO9z3tYgHTGhD-43" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="15.490000000000009" as="sourcePoint" />
             <mxPoint x="50" y="14.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-1" value="&lt;b&gt;Portefeuilles numériques&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-2" value="&amp;nbsp;Hardware wallets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="972.38" y="1754" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-3" value="Hot Wallets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1480" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-4" value="Paper Wallets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="972.38" y="1680" width="123" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-5" value="Browser Wallets&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="1670" width="123" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-7" value="Mobile Wallets&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="537" y="1670" width="123" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-8" value="Custodial wallets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1480" width="123" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-9" value="Non-Custodial wallets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="566.25" y="1480" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-10" value="Cold Wallets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1053.38" y="1480" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="361.5" y="1540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="581.25" y="1540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1066.25" y="1540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
