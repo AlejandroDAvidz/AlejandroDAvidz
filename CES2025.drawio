@@ -478,7 +478,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YJABB3gAFSu8hfhxD6bR-11" value="Un &lt;strong&gt;tiers&lt;/strong&gt; (plateforme d&#39;échange, service de garde) gère les clés privées de l&#39;utilisateur." style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-11" value="Un tiers (plateforme d&#39;échange, service de garde) gère les clés privées de l&#39;utilisateur." style="rounded=0;whiteSpace=wrap;html=1;align=center;fontStyle=0;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="321.42" y="1540" width="148.58" height="110" as="geometry" />
         </mxCell>
         <mxCell id="1MkHPFC1iVQuffIMI8So-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJABB3gAFSu8hfhxD6bR-12" target="1MkHPFC1iVQuffIMI8So-5">
@@ -502,7 +502,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YJABB3gAFSu8hfhxD6bR-12" value="&#xa; l&#39;utilisateur &lt;strong&gt;gère et contrôle ses propres clés privées&lt;/strong&gt;.&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-12" value="L&#39;utilisateur gère et contrôle ses propres clés privées.&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontStyle=0;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="546.25" y="1550" width="153.75" height="110" as="geometry" />
         </mxCell>
         <mxCell id="1MkHPFC1iVQuffIMI8So-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJABB3gAFSu8hfhxD6bR-13" target="YJABB3gAFSu8hfhxD6bR-5">
@@ -532,7 +532,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YJABB3gAFSu8hfhxD6bR-13" value="&lt;br&gt;Il sont &lt;strong&gt;toujours connectés à Internet&lt;/strong&gt;. Ils sont principalement utilisés pour les transactions rapides et les interactions fréquentes avec des dApps&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-13" value="Il sont toujours connectés à Internet. Ils sont principalement utilisés pour les transactions rapides et les interactions fréquentes avec des dApps&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontStyle=0;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="820" y="1540" width="173" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1MkHPFC1iVQuffIMI8So-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJABB3gAFSu8hfhxD6bR-14" target="1MkHPFC1iVQuffIMI8So-15">
@@ -547,7 +547,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YJABB3gAFSu8hfhxD6bR-14" value="&lt;strong&gt;Il ne sont pas connectés à Internet&lt;/strong&gt; et sont utilisés pour stocker les cryptomonnaies de manière sécurisée, à long terme." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-14" value="Il ne sont pas connectés à Internet et sont utilisés pour stocker les cryptomonnaies de manière sécurisée, à long terme." style="rounded=0;whiteSpace=wrap;html=1;align=center;fontStyle=0;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="1066.25" y="1540" width="163.75" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1MkHPFC1iVQuffIMI8So-5" value="Software Wallets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
