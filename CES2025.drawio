@@ -415,8 +415,8 @@
         <mxCell id="YJABB3gAFSu8hfhxD6bR-10" value="Cold Wallets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1066.25" y="1480" width="133.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YJABB3gAFSu8hfhxD6bR-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="321.42" y="1540" width="148.58" height="60" as="geometry" />
+        <mxCell id="YJABB3gAFSu8hfhxD6bR-11" value="Un &lt;strong&gt;tiers&lt;/strong&gt; (plateforme d&#39;échange, service de garde) gère les clés privées de l&#39;utilisateur.&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="321.42" y="1540" width="148.58" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YJABB3gAFSu8hfhxD6bR-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="566.25" y="1540" width="153.75" height="60" as="geometry" />
