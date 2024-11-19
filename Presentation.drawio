@@ -1,9 +1,69 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="Z1V4pkyrTjfmCM-U0hCl">
-    <mxGraphModel>
+    <mxGraphModel dx="1116" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="f6ZDDn2nSGfMl3vf_n1B-1" value="Introduction : Qui es-tu et pourquoi ce parcours ?&lt;div&gt;30 sec&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6ZDDn2nSGfMl3vf_n1B-2" value="Ingenieur, + 10 ans d&#39;experience dans des projets de transformation digital&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ 5 ans collaborant dans les projets blockchain et utilisant les projets&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="240" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="f6ZDDn2nSGfMl3vf_n1B-3" value="&lt;br/&gt;&#x9;&#x9;&lt;br/&gt;&#x9;&lt;br/&gt;&#x9;&lt;br/&gt;&#x9;&#x9;&lt;div title=&quot;Page 1&quot; class=&quot;page&quot;&gt;&lt;br/&gt;&#x9;&#x9;&#x9;&lt;div class=&quot;layoutArea&quot;&gt;&lt;br/&gt;&#x9;&#x9;&#x9;&#x9;&lt;div class=&quot;column&quot;&gt;&lt;br/&gt;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;p&gt;&lt;span style=&quot;font-size: 12.000000pt; font-family: &#39;Aptos&#39;&quot;&gt;CES 2025 des 7 au 10 janvier à Las Vegas&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;br/&gt;&#x9;&#x9;&#x9;&#x9;&lt;/div&gt;&lt;br/&gt;&#x9;&#x9;&#x9;&lt;/div&gt;&lt;br/&gt;&#x9;&#x9;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="f6ZDDn2nSGfMl3vf_n1B-4" value="&#xa;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;div title=&quot;Page 1&quot; class=&quot;page&quot;&gt;&#xa;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;div class=&quot;layoutArea&quot;&gt;&#xa;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;div class=&quot;column&quot;&gt;&#xa;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12.000000pt; font-family: &#39;Aptos&#39;&quot;&gt;Pourquoi participer à cette visite&lt;/span&gt;&lt;span style=&quot;font-size: 12.000000pt; font-family: &#39;ArialMT&#39;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 12.000000pt; font-family: &#39;Aptos&#39;&quot;&gt;?&#xa;&lt;/span&gt;&lt;/p&gt;&#xa;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&#xa;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&#xa;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&#xa;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="f6ZDDn2nSGfMl3vf_n1B-5" value="Le parcours : Ce que les participants vont apprendre&lt;div&gt;1 min&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6ZDDn2nSGfMl3vf_n1B-6" value="Pourquoi c’est important ?&lt;div&gt;30 secondes&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6ZDDn2nSGfMl3vf_n1B-7" value="Conclusion : Invite les spectateurs&lt;div&gt;30 secondes&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6ZDDn2nSGfMl3vf_n1B-8" value="Adoption croissante" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6ZDDn2nSGfMl3vf_n1B-9" value="&lt;meta charset=&quot;utf-8&quot;&gt;Le marché des actifs numériques est aujourd&#39;hui évalué à plus de &lt;strong&gt;1 000 milliards de dollars&lt;/strong&gt;, une preuve de l&#39;intérêt massif des investisseurs et des entreprises." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="535" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="f6ZDDn2nSGfMl3vf_n1B-10" value="&lt;meta charset=&quot;utf-8&quot;&gt;La finance décentralisée (DeFi) gère actuellement plus de &lt;strong&gt;40 milliards de dollars en valeur totale verrouillée (TVL)&lt;/strong&gt;, montrant à quel point elle transforme la gestion des capitaux." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="535" width="210" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="f6ZDDn2nSGfMl3vf_n1B-11" value="&lt;meta charset=&quot;utf-8&quot;&gt;En 2023, les ventes de NFTs ont atteint près de &lt;strong&gt;25 milliards de dollars&lt;/strong&gt;, avec des applications dans l’art, les jeux vidéo, et même l’immobilier." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="535" width="200" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="f6ZDDn2nSGfMl3vf_n1B-12" value="&lt;meta charset=&quot;utf-8&quot;&gt;Aujourd’hui, plus de &lt;strong&gt;65% des internautes&lt;/strong&gt; se disent préoccupés par la gestion de leurs données personnelles. Le Web3 offre une solution pour redonner le contrôle aux utilisateurs." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="535" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="f6ZDDn2nSGfMl3vf_n1B-13" value="&lt;meta charset=&quot;utf-8&quot;&gt;Le nombre de startups dans l’écosystème blockchain a doublé au cours des trois dernières années, avec un financement total dépassant les &lt;strong&gt;30 milliards de dollars&lt;/strong&gt; en 2022." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="535" width="270" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="f6ZDDn2nSGfMl3vf_n1B-14" value="&lt;meta charset=&quot;utf-8&quot;&gt;De nouvelles blockchains comme Solana ou Ethereum 2.0 consomment désormais jusqu&#39;à &lt;strong&gt;99% d&#39;énergie en moins&lt;/strong&gt;, répondant aux critiques sur l’impact écologique." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="535" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="f6ZDDn2nSGfMl3vf_n1B-15" value="&lt;meta charset=&quot;utf-8&quot;&gt;DeFi en plein essor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6ZDDn2nSGfMl3vf_n1B-16" value="&lt;meta charset=&quot;utf-8&quot;&gt;NFTs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6ZDDn2nSGfMl3vf_n1B-17" value="&lt;meta charset=&quot;utf-8&quot;&gt;Propriété des données" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6ZDDn2nSGfMl3vf_n1B-18" value="&lt;meta charset=&quot;utf-8&quot;&gt;Croissance des entreprises blockchain" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6ZDDn2nSGfMl3vf_n1B-19" value="&lt;meta charset=&quot;utf-8&quot;&gt;Neutralité carbone" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1365" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6ZDDn2nSGfMl3vf_n1B-20" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;li&gt;Le &lt;strong&gt;CES 2025&lt;/strong&gt; attire plus de &lt;strong&gt;170 000 participants&lt;/strong&gt; et &lt;strong&gt;4 500 exposants&lt;/strong&gt; chaque année, dont de nombreux leaders technologiques.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;90% des grandes entreprises&lt;/strong&gt; investissent ou explorent déjà les technologies du &lt;strong&gt;Web3&lt;/strong&gt; et de la &lt;strong&gt;blockchain&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;60% des participants&lt;/strong&gt; du CES s’intéressent à l&#39;impact des nouvelles technologies sur la &lt;strong&gt;finance décentralisée (DeFi)&lt;/strong&gt;, les &lt;strong&gt;NFTs&lt;/strong&gt; et le &lt;strong&gt;Metaverse&lt;/strong&gt;.&lt;/li&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="740" width="360" height="210" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
