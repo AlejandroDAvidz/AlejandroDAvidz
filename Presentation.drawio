@@ -1,23 +1,23 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="Z1V4pkyrTjfmCM-U0hCl">
-    <mxGraphModel dx="3069" dy="2094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2481" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="f6ZDDn2nSGfMl3vf_n1B-1" value="Introduction : Qui es-tu et pourquoi ce parcours ?&lt;div&gt;30 sec&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-145" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="-320" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f6ZDDn2nSGfMl3vf_n1B-2" value="Ingenieur, + 10 ans d&#39;experience dans des projets de transformation digital&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ 5 ans collaborant dans les projets blockchain et utilisant les projets&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="-10" width="150" height="150" as="geometry" />
+          <mxGeometry x="-660" y="20" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="f6ZDDn2nSGfMl3vf_n1B-5" value="Le parcours : Ce que les participants vont apprendre&lt;div&gt;1 min&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="75" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f6ZDDn2nSGfMl3vf_n1B-6" value="Pourquoi c’est important ?&lt;div&gt;30 secondes&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f6ZDDn2nSGfMl3vf_n1B-7" value="Conclusion : Invite les spectateurs&lt;div&gt;30 secondes&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="815" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="745" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f6ZDDn2nSGfMl3vf_n1B-8" value="Adoption croissante" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="450" width="120" height="60" as="geometry" />
@@ -59,16 +59,16 @@
           <mxGeometry x="40" y="740" width="360" height="210" as="geometry" />
         </mxCell>
         <mxCell id="f6ZDDn2nSGfMl3vf_n1B-21" value="Bonjour, je suis Alejandro David, expert en Web3, et j’ai l’honneur d’animer un parcours thématique sur le Web3 et la blockchain au CES 2025, qui se tiendra du 7 au 10 janvier à Las Vegas. Ce parcours est une occasion unique de comprendre comment ces technologies décentralisées redéfinissent des secteurs majeurs comme la finance, la gestion des données et la gouvernance." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="115" width="210" height="235" as="geometry" />
+          <mxGeometry x="-395" y="115" width="270" height="225" as="geometry" />
         </mxCell>
-        <mxCell id="f6ZDDn2nSGfMl3vf_n1B-22" value="Le Web3 et la blockchain ne sont pas des technologies marginales, mais des &lt;strong&gt;révolutions structurelles&lt;/strong&gt;. En 2025, &lt;strong&gt;90% des grandes entreprises&lt;/strong&gt; dans le monde se disent prêtes à intégrer des solutions basées sur la blockchain. Ces technologies permettent de réinventer la sécurité, la transparence, et l’autonomie des utilisateurs. C’est pourquoi comprendre ces technologies aujourd’hui, c’est se préparer à être acteur du monde numérique de demain." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="115" width="220" height="225" as="geometry" />
+        <mxCell id="f6ZDDn2nSGfMl3vf_n1B-22" value="C’est pourquoi comprendre ces technologies aujourd’hui, c’est se préparer à être acteur du monde numérique de demain." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="110" width="220" height="225" as="geometry" />
         </mxCell>
         <mxCell id="f6ZDDn2nSGfMl3vf_n1B-23" value="Les groupes sont limités à 15 participants pour garantir une expérience immersive. Vous bénéficierez d&#39;un matériel audio pour suivre confortablement les explications tout au long du parcours. À la fin de la visite, un moment convivial autour d&#39;un déjeuner vous permettra d’échanger vos impressions et poser toutes vos questions. Pour vous inscrire et obtenir plus de détails, rendez-vous sur notre site web ou contactez-nous via LinkedIn. Nous vous attendons avec impatience au CES 2025 !" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="115" width="310" height="165" as="geometry" />
+          <mxGeometry x="650" y="110" width="310" height="165" as="geometry" />
         </mxCell>
         <mxCell id="f6ZDDn2nSGfMl3vf_n1B-24" value="&lt;p&gt;Lors de cette visite de 3 à 3h30,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;les participants découvriront non seulement les concepts et les applications du Web3, mais aussi des projets cryptos innovants ainsi que des entreprises clés dans l’écosystème blockchain.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cela inclut des projets&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;La finance décentralisée (DeFi)&lt;/strong&gt;, qui permet à des milliards de dollars de circuler sans banques traditionnelles, offrant des solutions plus accessibles et sécurisées. Par exemple, &lt;strong&gt;la valeur totale bloquée (TVL)&lt;/strong&gt; dans la DeFi a dépassé les 1&lt;strong&gt;00 milliards de dollars&lt;/strong&gt; en 2024.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Les NFTs et le Metaverse&lt;/strong&gt;, qui ont permis des ventes dépassant les &lt;strong&gt;2,5 milliards de dollars&lt;/strong&gt; en 2023 et révolutionnent l’art numérique et les industries créatives.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;La souveraineté des données et les DAOs (Organisations autonomes décentralisées)&lt;/strong&gt;, qui permettent de reprendre le contrôle de ses informations personnelles, avec des solutions désormais adoptées par des entreprises et des gouvernements.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Les portefeuilles numériques&lt;/strong&gt;, nécessaires pour gérer ses actifs et identités dans un environnement de plus en plus décentralisé.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ces innovations ont un impact direct sur des secteurs et permettent à chacun de se positionner à la pointe de la révolution numérique.&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="35" y="110" width="410" height="310" as="geometry" />
+          <mxGeometry x="-70" y="110" width="410" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
