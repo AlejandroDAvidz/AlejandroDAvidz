@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.0">
   <diagram name="Page-1" id="_voRB7Y6iMDA6GGgN8ft">
-    <mxGraphModel dx="874" dy="496" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="929" dy="528" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -583,26 +583,20 @@
         <mxCell id="1MkHPFC1iVQuffIMI8So-31" value="Trust Wallet" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1450" y="2150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Csb7IX5Ly2KMA7CuSujs-1" value="Binance smart Chain BSC" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2560" y="1340" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Csb7IX5Ly2KMA7CuSujs-2" value="Binance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2560" y="1220" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Csb7IX5Ly2KMA7CuSujs-3" value="Gemini&lt;div&gt;FTX&lt;/div&gt;&lt;div&gt;Coinbase&amp;nbsp;&lt;/div&gt;&lt;div&gt;Crypto.com&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2780" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Csb7IX5Ly2KMA7CuSujs-4" value="Binance Chain,&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fast more data&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2 ans plus tard&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;copier le code de ETH pour le modifier, plus centralice&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2400" y="1350" width="120" height="180" as="geometry" />
+          <mxGeometry x="2150" y="1740" width="120" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Csb7IX5Ly2KMA7CuSujs-5" value="Consensus Model&lt;div&gt;Delegated Proof of Stack&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2560" y="1560" width="120" height="60" as="geometry" />
+          <mxGeometry x="2370" y="1790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Csb7IX5Ly2KMA7CuSujs-6" value="21 Personnes valident les transaction, frias moins cehre, plus de tx par sec" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2710" y="1550" width="170" height="90" as="geometry" />
+          <mxGeometry x="2520" y="1780" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Csb7IX5Ly2KMA7CuSujs-7" value="PanckeSwap" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2660" y="1700" width="120" height="60" as="geometry" />
+          <mxGeometry x="2470" y="1930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Csb7IX5Ly2KMA7CuSujs-8" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Lors de l&#39;ICO en 2017 :&lt;/span&gt;&lt;br&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;- 40 % (80 millions de BNB)&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; : Réservé à l’équipe Binance.&lt;/span&gt;&lt;br&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;- 50 % (100 millions de BNB)&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; : Vendu au public lors de l’ICO.&lt;/span&gt;&lt;br&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;- 10 % (20 millions de BNB)&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; : Réservé pour les investisseurs &quot;angel&quot;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;L’ICO a permis à Binance de lever environ &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;15 millions de dollars&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="2650" y="2000" width="270" height="180" as="geometry" />
@@ -668,8 +662,103 @@
         <mxCell id="Csb7IX5Ly2KMA7CuSujs-18" value="Tokenomics BNB" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3020" y="1820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mNAP6-yqIhlb055WlWwr-1" value="Est l&#39;une des plus grandes plateformes mondiales d&#39;échange de cryptomonnaies.&lt;div&gt;&lt;br&gt;Basé en Chine et fondée en 2017 par Changpeng Zhao (surnommé &quot;CZ&quot;) et Yi He.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2310" y="1190" width="230" height="100" as="geometry" />
+        <mxCell id="mNAP6-yqIhlb055WlWwr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mNAP6-yqIhlb055WlWwr-1" target="mNAP6-yqIhlb055WlWwr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mNAP6-yqIhlb055WlWwr-1" value="Est l&#39;une des plus grandes plateformes mondiales d&#39;échange de cryptomonnaies.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Basé en Chine et fondée en 2017 par Changpeng Zhao (surnommé &quot;CZ&quot;) et Yi He.&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="1200" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mNAP6-yqIhlb055WlWwr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mNAP6-yqIhlb055WlWwr-3" target="mNAP6-yqIhlb055WlWwr-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2550" y="1350" />
+              <mxPoint x="1980" y="1350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mNAP6-yqIhlb055WlWwr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mNAP6-yqIhlb055WlWwr-3" target="mNAP6-yqIhlb055WlWwr-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2550" y="1350" />
+              <mxPoint x="2200" y="1350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mNAP6-yqIhlb055WlWwr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mNAP6-yqIhlb055WlWwr-3" target="mNAP6-yqIhlb055WlWwr-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2550" y="1350" />
+              <mxPoint x="2670" y="1350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mNAP6-yqIhlb055WlWwr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mNAP6-yqIhlb055WlWwr-3" target="mNAP6-yqIhlb055WlWwr-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2550" y="1350" />
+              <mxPoint x="2850" y="1350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mNAP6-yqIhlb055WlWwr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mNAP6-yqIhlb055WlWwr-3" target="mNAP6-yqIhlb055WlWwr-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2550" y="1350" />
+              <mxPoint x="3050" y="1350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mNAP6-yqIhlb055WlWwr-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mNAP6-yqIhlb055WlWwr-3" target="mNAP6-yqIhlb055WlWwr-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2550" y="1350" />
+              <mxPoint x="2410" y="1350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mNAP6-yqIhlb055WlWwr-3" value="Binance" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2490" y="1210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mNAP6-yqIhlb055WlWwr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mNAP6-yqIhlb055WlWwr-5" target="mNAP6-yqIhlb055WlWwr-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mNAP6-yqIhlb055WlWwr-5" value="&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Trading de cryptomonnaies&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mNAP6-yqIhlb055WlWwr-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Staking&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mNAP6-yqIhlb055WlWwr-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mNAP6-yqIhlb055WlWwr-7" target="mNAP6-yqIhlb055WlWwr-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2410" y="1480" />
+              <mxPoint x="2410" y="1480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mNAP6-yqIhlb055WlWwr-7" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Binance Smart Chain (BSC)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2350" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mNAP6-yqIhlb055WlWwr-8" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;NFT Marketplace&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2610" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mNAP6-yqIhlb055WlWwr-9" value="Services de paiement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2790" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mNAP6-yqIhlb055WlWwr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mNAP6-yqIhlb055WlWwr-15" target="mNAP6-yqIhlb055WlWwr-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mNAP6-yqIhlb055WlWwr-15" value="Autres services et diversification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2990" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mNAP6-yqIhlb055WlWwr-17" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Binance Academy&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Binance Charity&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Binance Labs&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Partenariats globaux&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2980" y="1480" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mNAP6-yqIhlb055WlWwr-19" value="-&lt;b&gt;Spot &lt;/b&gt;: Fonds propres.&amp;nbsp;&lt;div&gt;- &lt;b&gt;Margin &lt;/b&gt;:&amp;nbsp;Trader en empruntant des fonds.&amp;nbsp;Généralement faible à modéré (jusqu&#39;à 10x).&lt;/div&gt;&lt;div&gt;- &lt;b&gt;Futures &lt;/b&gt;:&amp;nbsp;Parier sur le prix futur.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Effet de levier&amp;nbsp;beaucoup plus important qu&#39;en margin trading.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="1490" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="mNAP6-yqIhlb055WlWwr-21" value="Crée en&amp;nbsp;&lt;strong&gt;septembre 2020&lt;/strong&gt; pour offrir des transactions rapides, peu coûteuses et compatibles avec les applications décentralisées (&lt;strong&gt;dApps&lt;/strong&gt;).&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Proof of Staked Authority (PoSA)&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="1490" width="210" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
