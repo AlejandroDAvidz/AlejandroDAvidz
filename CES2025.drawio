@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="_voRB7Y6iMDA6GGgN8ft">
-    <mxGraphModel dx="572" dy="325" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1486" dy="844" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -784,19 +784,54 @@
         <mxCell id="mNAP6-yqIhlb055WlWwr-42" value="//" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="mNAP6-yqIhlb055WlWwr-41" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M7vpgcogCTqzijaIfb5J-1" value="BSC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3760" y="1860" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M7vpgcogCTqzijaIfb5J-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M7vpgcogCTqzijaIfb5J-2" target="M7vpgcogCTqzijaIfb5J-1">
+        <mxCell id="M7vpgcogCTqzijaIfb5J-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M7vpgcogCTqzijaIfb5J-1" target="M7vpgcogCTqzijaIfb5J-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3750" y="1885" />
-              <mxPoint x="3750" y="1885" />
+              <mxPoint x="3820" y="1920" />
+              <mxPoint x="3670" y="1920" />
+              <mxPoint x="3670" y="2005" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M7vpgcogCTqzijaIfb5J-2" value="La Binance Smart Chain est une blockchain &lt;strong&gt;généraliste&lt;/strong&gt; conçue pour exécuter un large éventail de &lt;strong&gt;smart contracts&lt;/strong&gt; et d&#39;applications décentralisées (&lt;strong&gt;dApps&lt;/strong&gt;)&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Elle héberge des projets variés : DeFi, NFT, jeux vidéo, marketplaces, etc.&lt;/span&gt;&lt;div&gt;&lt;h4&gt;&lt;/h4&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3430" y="1820" width="250" height="130" as="geometry" />
+        <mxCell id="M7vpgcogCTqzijaIfb5J-1" value="Binance Smart Chain" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3760" y="1840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M7vpgcogCTqzijaIfb5J-2" value="La BSC est une blockchain &lt;strong&gt;généraliste&lt;/strong&gt; conçue pour exécuter un large éventail de &lt;strong&gt;smart contracts&lt;/strong&gt; et d&#39;applications décentralisées (&lt;strong&gt;dApps&lt;/strong&gt;)&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Elle héberge des projets variés : DeFi, NFT, jeux vidéo, marketplaces, etc.&lt;/span&gt;&lt;div&gt;&lt;h4&gt;&lt;/h4&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3690" y="1940" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="M7vpgcogCTqzijaIfb5J-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M7vpgcogCTqzijaIfb5J-4" target="M7vpgcogCTqzijaIfb5J-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4000" y="1820" />
+              <mxPoint x="3820" y="1820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M7vpgcogCTqzijaIfb5J-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M7vpgcogCTqzijaIfb5J-4" target="M7vpgcogCTqzijaIfb5J-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4000" y="1820" />
+              <mxPoint x="4140" y="1820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M7vpgcogCTqzijaIfb5J-4" value="BNB Cain" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3940" y="1720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M7vpgcogCTqzijaIfb5J-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M7vpgcogCTqzijaIfb5J-5" target="M7vpgcogCTqzijaIfb5J-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4140" y="1920" />
+              <mxPoint x="4010" y="1920" />
+              <mxPoint x="4010" y="2005" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M7vpgcogCTqzijaIfb5J-5" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;BNB Beacon Chain&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4070" y="1840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M7vpgcogCTqzijaIfb5J-6" value="Blockchain applicative&amp;nbsp;conçue avec l&#39;objectif d&#39;optimiser&amp;nbsp;les échanges rapides et sécurisés de crypto-actifs.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;n&#39;est pas compatible avec l&#39;Ethereum Virtual Machine (EVM) et n&#39;est pas conçue pour exécuter des smart contracts complexes&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="4030" y="1940" width="230" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
