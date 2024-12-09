@@ -887,7 +887,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2360" y="2900" />
-              <mxPoint x="2020" y="2900" />
+              <mxPoint x="2030" y="2900" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -921,16 +921,16 @@
         <mxCell id="v73s5uM-6vZ-ioVXGlIi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v73s5uM-6vZ-ioVXGlIi-2" target="v73s5uM-6vZ-ioVXGlIi-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2015" y="3010" />
-              <mxPoint x="2015" y="3010" />
+              <mxPoint x="2025" y="3010" />
+              <mxPoint x="2025" y="3010" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="v73s5uM-6vZ-ioVXGlIi-2" value="Distribution Initiale" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1960" y="2940" width="120" height="60" as="geometry" />
+          <mxGeometry x="1970" y="2940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v73s5uM-6vZ-ioVXGlIi-3" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Bitcoin n’a pas été préminé. Cela signifie qu&#39;aucun BTC n’a été créé ou attribué avant le lancement officiel du réseau.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Tous les Bitcoins ont été générés par le processus de &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;minage&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, à partir du premier bloc, appelé le &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;bloc Genesis&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; (3 janvier 2009).&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-&amp;nbsp;&lt;/b&gt;&lt;strong&gt;21 millions&lt;/strong&gt; de BTC.&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1910" y="3040" width="210" height="170" as="geometry" />
+          <mxGeometry x="1920" y="3040" width="210" height="170" as="geometry" />
         </mxCell>
         <mxCell id="v73s5uM-6vZ-ioVXGlIi-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v73s5uM-6vZ-ioVXGlIi-5" target="v73s5uM-6vZ-ioVXGlIi-6">
           <mxGeometry relative="1" as="geometry" />
@@ -948,7 +948,7 @@
           <mxGeometry x="2200" y="2940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v73s5uM-6vZ-ioVXGlIi-8" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Créé le &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;3 janvier 2009&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, est le premier bloc de la blockchain Bitcoin.&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Il a généré une récompense de &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;50 BTC&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, mais ces BTC ne sont &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;pas dépensables&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; en raison d&#39;une spécificité technique du code.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ces 50 BTC ne font donc pas partie de l&#39;offre circulante.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2170" y="3040" width="180" height="170" as="geometry" />
+          <mxGeometry x="2170" y="3040" width="180" height="160" as="geometry" />
         </mxCell>
         <mxCell id="v73s5uM-6vZ-ioVXGlIi-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v73s5uM-6vZ-ioVXGlIi-11" target="v73s5uM-6vZ-ioVXGlIi-12">
           <mxGeometry relative="1" as="geometry">
