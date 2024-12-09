@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="_voRB7Y6iMDA6GGgN8ft">
-    <mxGraphModel dx="1061" dy="603" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="991" dy="563" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="M7vpgcogCTqzijaIfb5J-30" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="M7vpgcogCTqzijaIfb5J-30" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="2690" y="2300" width="890" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="M7vpgcogCTqzijaIfb5J-29" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="M7vpgcogCTqzijaIfb5J-29" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1830" y="1190" width="1500" height="610" as="geometry" />
         </mxCell>
-        <mxCell id="M7vpgcogCTqzijaIfb5J-21" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="M7vpgcogCTqzijaIfb5J-21" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="3750" y="2170" width="890" height="880" as="geometry" />
         </mxCell>
         <mxCell id="1MkHPFC1iVQuffIMI8So-28" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
@@ -784,7 +784,7 @@
         <mxCell id="mNAP6-yqIhlb055WlWwr-42" value="//" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="mNAP6-yqIhlb055WlWwr-41" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M7vpgcogCTqzijaIfb5J-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="M7vpgcogCTqzijaIfb5J-1" target="M7vpgcogCTqzijaIfb5J-2">
+        <mxCell id="M7vpgcogCTqzijaIfb5J-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="M7vpgcogCTqzijaIfb5J-1" target="M7vpgcogCTqzijaIfb5J-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3800" y="2525" as="targetPoint" />
             <Array as="points">
@@ -794,16 +794,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M7vpgcogCTqzijaIfb5J-1" value="Binance Smart Chain" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M7vpgcogCTqzijaIfb5J-1" value="Binance Smart Chain" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3920" y="2370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M7vpgcogCTqzijaIfb5J-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M7vpgcogCTqzijaIfb5J-2" target="M7vpgcogCTqzijaIfb5J-14">
+        <mxCell id="M7vpgcogCTqzijaIfb5J-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="M7vpgcogCTqzijaIfb5J-2" target="M7vpgcogCTqzijaIfb5J-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M7vpgcogCTqzijaIfb5J-2" value="La BSC est une blockchain &lt;strong&gt;généraliste&lt;/strong&gt; conçue pour exécuter un large éventail de &lt;strong&gt;smart contracts&lt;/strong&gt; et d&#39;applications décentralisées (&lt;strong&gt;dApps&lt;/strong&gt;)&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Elle héberge des projets variés : DeFi, NFT, jeux vidéo, marketplaces, etc.&lt;/span&gt;&lt;div&gt;&lt;h4&gt;&lt;/h4&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M7vpgcogCTqzijaIfb5J-2" value="La BSC est une blockchain &lt;strong&gt;généraliste&lt;/strong&gt; conçue pour exécuter un large éventail de &lt;strong&gt;smart contracts&lt;/strong&gt; et d&#39;applications décentralisées (&lt;strong&gt;dApps&lt;/strong&gt;)&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Elle héberge des projets variés : DeFi, NFT, jeux vidéo, marketplaces, etc.&lt;/span&gt;&lt;div&gt;&lt;h4&gt;&lt;/h4&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3810" y="2460" width="330" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="M7vpgcogCTqzijaIfb5J-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M7vpgcogCTqzijaIfb5J-4" target="M7vpgcogCTqzijaIfb5J-1">
+        <mxCell id="M7vpgcogCTqzijaIfb5J-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="M7vpgcogCTqzijaIfb5J-4" target="M7vpgcogCTqzijaIfb5J-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4160" y="2350" />
@@ -811,7 +811,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M7vpgcogCTqzijaIfb5J-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M7vpgcogCTqzijaIfb5J-4" target="M7vpgcogCTqzijaIfb5J-5">
+        <mxCell id="M7vpgcogCTqzijaIfb5J-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="M7vpgcogCTqzijaIfb5J-4" target="M7vpgcogCTqzijaIfb5J-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4160" y="2350" />
@@ -819,10 +819,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M7vpgcogCTqzijaIfb5J-4" value="BNB Cain" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M7vpgcogCTqzijaIfb5J-4" value="BNB Cain" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4100" y="2230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M7vpgcogCTqzijaIfb5J-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M7vpgcogCTqzijaIfb5J-5" target="M7vpgcogCTqzijaIfb5J-6">
+        <mxCell id="M7vpgcogCTqzijaIfb5J-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="M7vpgcogCTqzijaIfb5J-5" target="M7vpgcogCTqzijaIfb5J-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4370" y="2450" />
@@ -831,10 +831,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M7vpgcogCTqzijaIfb5J-5" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;BNB Beacon Chain&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M7vpgcogCTqzijaIfb5J-5" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;BNB Beacon Chain&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4310" y="2370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M7vpgcogCTqzijaIfb5J-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M7vpgcogCTqzijaIfb5J-6" target="M7vpgcogCTqzijaIfb5J-11">
+        <mxCell id="M7vpgcogCTqzijaIfb5J-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="M7vpgcogCTqzijaIfb5J-6" target="M7vpgcogCTqzijaIfb5J-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4395" y="2610" />
@@ -842,22 +842,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M7vpgcogCTqzijaIfb5J-6" value="Blockchain applicative&amp;nbsp;conçue avec l&#39;objectif d&#39;optimiser&amp;nbsp;les échanges rapides et sécurisés de crypto-actifs.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;n&#39;est pas compatible avec l&#39;Ethereum Virtual Machine (EVM) et n&#39;est pas conçue pour exécuter des smart contracts complexes&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="M7vpgcogCTqzijaIfb5J-6" value="Blockchain applicative&amp;nbsp;conçue avec l&#39;objectif d&#39;optimiser&amp;nbsp;les échanges rapides et sécurisés de crypto-actifs.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;n&#39;est pas compatible avec l&#39;Ethereum Virtual Machine (EVM) et n&#39;est pas conçue pour exécuter des smart contracts complexes&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="4230" y="2460" width="320" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="M7vpgcogCTqzijaIfb5J-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M7vpgcogCTqzijaIfb5J-11" target="M7vpgcogCTqzijaIfb5J-17">
+        <mxCell id="M7vpgcogCTqzijaIfb5J-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="M7vpgcogCTqzijaIfb5J-11" target="M7vpgcogCTqzijaIfb5J-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M7vpgcogCTqzijaIfb5J-11" value="&lt;b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tendermint Byzantine Fault Tolerance (BFT)&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Lorsqu’un validateur propose un bloc, les autres validateurs doivent voter pour accepter ou rejeter ce bloc.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Si au moins 2/3 des validateurs approuvent le bloc, il est ajouté à la blockchain.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Les &lt;strong&gt;validateurs&lt;/strong&gt;&amp;nbsp;sont sélectionnés de manière &lt;strong&gt;prédéfinie&lt;/strong&gt; par les opérateurs de la chaîne, qui sont principalement contrôlés par l&#39;équipe de Binance.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="M7vpgcogCTqzijaIfb5J-11" value="&lt;b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tendermint Byzantine Fault Tolerance (BFT)&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Lorsqu’un validateur propose un bloc, les autres validateurs doivent voter pour accepter ou rejeter ce bloc.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Si au moins 2/3 des validateurs approuvent le bloc, il est ajouté à la blockchain.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Les &lt;strong&gt;validateurs&lt;/strong&gt;&amp;nbsp;sont sélectionnés de manière &lt;strong&gt;prédéfinie&lt;/strong&gt; par les opérateurs de la chaîne, qui sont principalement contrôlés par l&#39;équipe de Binance.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="4230" y="2641" width="330" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="M7vpgcogCTqzijaIfb5J-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M7vpgcogCTqzijaIfb5J-14" target="M7vpgcogCTqzijaIfb5J-17">
+        <mxCell id="M7vpgcogCTqzijaIfb5J-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="M7vpgcogCTqzijaIfb5J-14" target="M7vpgcogCTqzijaIfb5J-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M7vpgcogCTqzijaIfb5J-14" value="&lt;b&gt;Proof of Staked Authority PSoA&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Il combine des éléments de &lt;strong&gt;Proof of Stake (PoS)&lt;/strong&gt; et de &lt;strong&gt;Proof of Authority (PoA)&lt;/strong&gt;, offrant une méthode efficace et sécurisée pour valider les transactions et créer des blocs.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Le PoSA permet de créer des blocs rapidement, généralement toutes les &lt;strong&gt;3 à 5 secondes&lt;/strong&gt;.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;(PoS)&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; : les validateurs sont choisis en fonction du montant de cryptomonnaie qu&#39;ils ont &quot;staké&quot; ou mis en jeu.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;(PoA)&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; : la validation des blocs repose sur l&#39;identité et la réputation des validateurs, qui sont généralement des entités connues et de confiance.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;La BSC permet un nombre limité de validateurs, qui est généralement de &lt;strong&gt;29&lt;/strong&gt;.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="M7vpgcogCTqzijaIfb5J-14" value="&lt;b&gt;Proof of Staked Authority PSoA&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Il combine des éléments de &lt;strong&gt;Proof of Stake (PoS)&lt;/strong&gt; et de &lt;strong&gt;Proof of Authority (PoA)&lt;/strong&gt;, offrant une méthode efficace et sécurisée pour valider les transactions et créer des blocs.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Le PoSA permet de créer des blocs rapidement, généralement toutes les &lt;strong&gt;3 à 5 secondes&lt;/strong&gt;.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;(PoS)&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; : les validateurs sont choisis en fonction du montant de cryptomonnaie qu&#39;ils ont &quot;staké&quot; ou mis en jeu.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;(PoA)&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; : la validation des blocs repose sur l&#39;identité et la réputation des validateurs, qui sont généralement des entités connues et de confiance.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;La BSC permet un nombre limité de validateurs, qui est généralement de &lt;strong&gt;29&lt;/strong&gt;.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="3800" y="2640" width="350" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="M7vpgcogCTqzijaIfb5J-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M7vpgcogCTqzijaIfb5J-15" target="M7vpgcogCTqzijaIfb5J-4">
+        <mxCell id="M7vpgcogCTqzijaIfb5J-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="M7vpgcogCTqzijaIfb5J-15" target="M7vpgcogCTqzijaIfb5J-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4060" y="2260" />
@@ -865,23 +865,44 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M7vpgcogCTqzijaIfb5J-15" value="Une fois un bloc validé par les validateurs et ajouté à la chaîne, il est immédiatement irréversible. Il n&#39;y a pas besoin d&#39;attendre plusieurs blocs comme sur Bitcoin." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M7vpgcogCTqzijaIfb5J-15" value="Une fois un bloc validé par les validateurs et ajouté à la chaîne, il est immédiatement irréversible. Il n&#39;y a pas besoin d&#39;attendre plusieurs blocs comme sur Bitcoin." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3820" y="2220" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="M7vpgcogCTqzijaIfb5J-17" value="&#xa;Les mécanismes comme Tendermint BFT et PoSA nécessitent un consensus d&#39;au moins &lt;strong&gt;2/3 des validateurs&lt;/strong&gt; avant qu&#39;un bloc puisse être ajouté à la chaîne. Cela empêche les réorganisations de la chaîne et assure une sécurité immédiate.&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M7vpgcogCTqzijaIfb5J-17" value="&#xa;Les mécanismes comme Tendermint BFT et PoSA nécessitent un consensus d&#39;au moins &lt;strong&gt;2/3 des validateurs&lt;/strong&gt; avant qu&#39;un bloc puisse être ajouté à la chaîne. Cela empêche les réorganisations de la chaîne et assure une sécurité immédiate.&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3860" y="2940" width="660" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="M7vpgcogCTqzijaIfb5J-22" value="&lt;div&gt;Blockchain semi-décentralisée et elle n&#39;est se spécialise pas dans le stockage décentralisé. Elle conçoit des outils pour rendre plus facile les interaction dans l&#39;écosystème Binance tels que la DeFi ou son DEX. Elle ne cherche pas à remplacer Ethereum.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M7vpgcogCTqzijaIfb5J-22" value="&lt;div&gt;Blockchain semi-décentralisée et elle n&#39;est se spécialise pas dans le stockage décentralisé. Elle conçoit des outils pour rendre plus facile les interaction dans l&#39;écosystème Binance tels que la DeFi ou son DEX. Elle ne cherche pas à remplacer Ethereum.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4290" y="2210" width="250" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="M7vpgcogCTqzijaIfb5J-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M7vpgcogCTqzijaIfb5J-4" target="M7vpgcogCTqzijaIfb5J-22">
+        <mxCell id="M7vpgcogCTqzijaIfb5J-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="M7vpgcogCTqzijaIfb5J-4" target="M7vpgcogCTqzijaIfb5J-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4390" y="2300" as="sourcePoint" />
             <mxPoint x="4490" y="2300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M7vpgcogCTqzijaIfb5J-26" value="&amp;nbsp;/ /&amp;nbsp;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="M7vpgcogCTqzijaIfb5J-25">
+        <mxCell id="M7vpgcogCTqzijaIfb5J-26" value="&amp;nbsp;/ /&amp;nbsp;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="M7vpgcogCTqzijaIfb5J-25" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-1" value="Tokenomics BTC" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="2810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-2" value="Distribution Initiale" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="2940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-3" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Bitcoin n’a pas été préminé. Cela signifie qu&#39;aucun BTC n’a été créé ou attribué avant le lancement officiel du réseau.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Tous les Bitcoins ont été générés par le processus de &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;minage&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, à partir du premier bloc, appelé le &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;bloc Genesis&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; (3 janvier 2009).&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-&amp;nbsp;&lt;/b&gt;&lt;strong&gt;21 millions&lt;/strong&gt; de BTC.&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="3040" width="290" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-5" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Mécanisme de réduction de l’offre&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2520" y="2950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-6" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Les autres BTC (en dehors du bloc Genesis) sont créés progressivement à travers le&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Proof of Work (PoW)&lt;/strong&gt;&lt;br&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;- Chaque bloc miné libère une récompense + frais de transactions.&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;cette récompense était de &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;50 BTC&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- H&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;alving - Diminution de l&#39;offre chaque 4 ans&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;jusqu&#39;à ce qu&#39;elle atteigne pratiquement zéro.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Le dernier BTC devrait être miné aux alentours de &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;l’année 2140&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2430" y="3040" width="290" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-7" value="&lt;h3&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Genesis&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Bloc&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="2950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-8" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Créé le &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;3 janvier 2009&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, est le premier bloc de la blockchain Bitcoin.&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Il a généré une récompense de &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;50 BTC&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, mais ces BTC ne sont &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;pas dépensables&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; en raison d&#39;une spécificité technique du code.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ces 50 BTC ne font donc pas partie de l&#39;offre circulante.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="3040" width="270" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
