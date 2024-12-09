@@ -942,13 +942,18 @@
           <mxGeometry x="2380" y="3040" width="220" height="200" as="geometry" />
         </mxCell>
         <mxCell id="v73s5uM-6vZ-ioVXGlIi-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v73s5uM-6vZ-ioVXGlIi-7" target="v73s5uM-6vZ-ioVXGlIi-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2265" y="3010" />
+              <mxPoint x="2265" y="3010" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="v73s5uM-6vZ-ioVXGlIi-7" value="&lt;h3&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Genesis&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Bloc&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2200" y="2940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v73s5uM-6vZ-ioVXGlIi-8" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Créé le &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;3 janvier 2009&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, est le premier bloc de la blockchain Bitcoin.&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Il a généré une récompense de &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;50 BTC&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, mais ces BTC ne sont &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;pas dépensables&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; en raison d&#39;une spécificité technique du code.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ces 50 BTC ne font donc pas partie de l&#39;offre circulante.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2170" y="3040" width="180" height="160" as="geometry" />
+          <mxGeometry x="2170" y="3040" width="190" height="160" as="geometry" />
         </mxCell>
         <mxCell id="v73s5uM-6vZ-ioVXGlIi-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v73s5uM-6vZ-ioVXGlIi-11" target="v73s5uM-6vZ-ioVXGlIi-12">
           <mxGeometry relative="1" as="geometry">
@@ -964,8 +969,56 @@
         <mxCell id="v73s5uM-6vZ-ioVXGlIi-12" value="&lt;p&gt;Consommation énergétique élevée&lt;/p&gt;&lt;p&gt;Scalabilité et frais de transaction&lt;/p&gt;&lt;p&gt;Centralisation du minage /&amp;nbsp;attaque à 51%&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="2630" y="3040" width="160" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-22" value="BTC Consensus" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3140" y="2800" width="120" height="80" as="geometry" />
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-22" value="&lt;div&gt;Bitcoin Improvement Proposals (BIPs)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2270" y="3440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-24" value="&#xa;Segregated Witness (SegWit) – 2017&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="3580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-25" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Résolution du problème de &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;malleability des transactions.&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Base pour le déploiement de solutions comme &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Lightning Network&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Augmentation de la capacité des blocs en séparant les données de signature des transactions.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="3670" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-26" value="&lt;strong style=&quot;background-color: initial;&quot;&gt;Taproot &amp;amp; Schnorr Signatures – 2021&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2230" y="3580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-27" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Ajout des &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;signatures Schnorr&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, une méthode de signature plus efficace et flexible que les signatures ECDSA.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Introduction de &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Taproot&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, qui améliore la confidentialité et l&#39;efficacité des transactions complexes, comme celles utilisant des scripts multi-signatures&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="3670" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-28" value="&lt;h3&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Lightning Network (Off-Chain Scaling Solution)&lt;/font&gt;&lt;/strong&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2490" y="3580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-29" value="&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;L&#39;idée a été proposée dès 2015, mais son adoption a progressé après l&#39;activation de SegWit.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solution de scalabilité de couche 2 permettant des micro-transactions rapides et peu coûteuses.&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="3670" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-30" value="&#xa;CheckSequenceVerify (CSV) – 2016&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="3900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-31" value="&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Introduction de fonctionnalités pour permettre des scripts conditionnels basés sur le temps (timelocks relatifs)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Renforcement des capacités de programmation dans Bitcoin.&lt;/span&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="3990" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-32" value="&lt;strong style=&quot;background-color: initial;&quot;&gt;OP_CLTV (CheckLockTimeVerify) – 2015&lt;br&gt;&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="3900" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-33" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Ajout de scripts permettant des transactions verrouillées dans le temps (timelocks absolus).&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;-&amp;nbsp;&lt;/b&gt;Développement de fonctionnalités telles que les &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;escrow&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; et des mécanismes de gestion de fonds complexes&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2360" y="3990" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-34" value="&lt;h3&gt;&lt;strong&gt;P2SH (Pay-to-Script-Hash) – 2012&lt;/strong&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="3900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-35" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Permettre aux utilisateurs d’envoyer des fonds vers un script (plutôt qu’une clé publique) en ne dévoilant le script qu’au moment de dépenser les fonds.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;-&amp;nbsp;&lt;/b&gt;Facilitation des transactions multi-signatures.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Renforcement de la confidentialité et de la flexibilité dans les scénarios de dépense.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2630" y="3990" width="210" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-36" value="&lt;h3&gt;&lt;strong style=&quot;background-color: initial; font-size: 12px;&quot;&gt;BIP 39 (Standardisation des Mnemonics) – 2013&lt;/strong&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="4230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-37" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Définir un standard pour générer des portefeuilles HD (hierarchical deterministic) à partir d’une phrase mnémonique.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;-&amp;nbsp;&lt;/b&gt;Amélioration de l’expérience utilisateur.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Standardisation adoptée par la majorité des portefeuilles modernes.&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="4330" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-38" value="&lt;strong style=&quot;background-color: initial;&quot;&gt;Bech32 (Adresses SegWit) – 2017&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="4240" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-39" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Introduire un nouveau format d’adresse plus compact et lisible, spécialement conçu pour SegWit.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Réduction des frais.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Prévention d’erreurs dans la saisie manuelle des adresses.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="4330" width="240" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
