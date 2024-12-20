@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="_voRB7Y6iMDA6GGgN8ft">
-    <mxGraphModel dx="1061" dy="603" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2233" dy="1388" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="brHPKC-g--SUIAmpnRtD-19" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="2760" width="970" height="570" as="geometry" />
+        </mxCell>
         <mxCell id="M7vpgcogCTqzijaIfb5J-30" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="2690" y="2300" width="890" height="390" as="geometry" />
         </mxCell>
@@ -883,7 +886,7 @@
         <mxCell id="M7vpgcogCTqzijaIfb5J-26" value="&amp;nbsp;/ /&amp;nbsp;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="M7vpgcogCTqzijaIfb5J-25" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v73s5uM-6vZ-ioVXGlIi-1" target="v73s5uM-6vZ-ioVXGlIi-2">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="v73s5uM-6vZ-ioVXGlIi-1" target="v73s5uM-6vZ-ioVXGlIi-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2360" y="2900" />
@@ -891,7 +894,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v73s5uM-6vZ-ioVXGlIi-1" target="v73s5uM-6vZ-ioVXGlIi-7">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="v73s5uM-6vZ-ioVXGlIi-1" target="v73s5uM-6vZ-ioVXGlIi-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2360" y="2900" />
@@ -899,7 +902,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v73s5uM-6vZ-ioVXGlIi-1" target="v73s5uM-6vZ-ioVXGlIi-5">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v73s5uM-6vZ-ioVXGlIi-1" target="v73s5uM-6vZ-ioVXGlIi-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2360" y="2900" />
@@ -907,7 +910,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v73s5uM-6vZ-ioVXGlIi-1" target="v73s5uM-6vZ-ioVXGlIi-11">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v73s5uM-6vZ-ioVXGlIi-1" target="v73s5uM-6vZ-ioVXGlIi-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2360" y="2900" />
@@ -915,10 +918,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-1" value="Tokenomics BTC" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-1" value="Tokenomics BTC" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2300" y="2810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v73s5uM-6vZ-ioVXGlIi-2" target="v73s5uM-6vZ-ioVXGlIi-3">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v73s5uM-6vZ-ioVXGlIi-2" target="v73s5uM-6vZ-ioVXGlIi-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2025" y="3010" />
@@ -926,22 +929,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-2" value="Distribution Initiale" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-2" value="Distribution Initiale" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1970" y="2940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-3" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Bitcoin n’a pas été préminé. Cela signifie qu&#39;aucun BTC n’a été créé ou attribué avant le lancement officiel du réseau.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Tous les Bitcoins ont été générés par le processus de &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;minage&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, à partir du premier bloc, appelé le &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;bloc Genesis&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; (3 janvier 2009).&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-&amp;nbsp;&lt;/b&gt;&lt;strong&gt;21 millions&lt;/strong&gt; de BTC.&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-3" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Bitcoin n’a pas été préminé. Cela signifie qu&#39;aucun BTC n’a été créé ou attribué avant le lancement officiel du réseau.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Tous les Bitcoins ont été générés par le processus de &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;minage&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, à partir du premier bloc, appelé le &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;bloc Genesis&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; (3 janvier 2009).&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-&amp;nbsp;&lt;/b&gt;&lt;strong&gt;21 millions&lt;/strong&gt; de BTC.&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1920" y="3040" width="210" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v73s5uM-6vZ-ioVXGlIi-5" target="v73s5uM-6vZ-ioVXGlIi-6">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v73s5uM-6vZ-ioVXGlIi-5" target="v73s5uM-6vZ-ioVXGlIi-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Mécanisme de réduction de l’offre&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Mécanisme de réduction de l’offre&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2430" y="2940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-6" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Les autres BTC (en dehors du bloc Genesis) sont créés progressivement à travers le&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Proof of Work (PoW)&lt;/strong&gt;&lt;br&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;- Chaque bloc miné libère une récompense + frais de transactions.&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;cette récompense était de &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;50 BTC&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- H&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;alving - Diminution de l&#39;offre chaque 4 ans&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;jusqu&#39;à ce qu&#39;elle atteigne pratiquement zéro.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Le dernier BTC devrait être miné aux alentours de &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;l’année 2140&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-6" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Les autres BTC (en dehors du bloc Genesis) sont créés progressivement à travers le&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Proof of Work (PoW)&lt;/strong&gt;&lt;br&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;- Chaque bloc miné libère une récompense + frais de transactions.&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;cette récompense était de &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;50 BTC&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- H&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;alving - Diminution de l&#39;offre chaque 4 ans&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;jusqu&#39;à ce qu&#39;elle atteigne pratiquement zéro.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Le dernier BTC devrait être miné aux alentours de &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;l’année 2140&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="2380" y="3040" width="220" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v73s5uM-6vZ-ioVXGlIi-7" target="v73s5uM-6vZ-ioVXGlIi-8">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v73s5uM-6vZ-ioVXGlIi-7" target="v73s5uM-6vZ-ioVXGlIi-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2265" y="3010" />
@@ -949,13 +952,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-7" value="&lt;h3&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Genesis&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Bloc&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-7" value="&lt;h3&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Genesis&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Bloc&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2200" y="2940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-8" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Créé le &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;3 janvier 2009&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, est le premier bloc de la blockchain Bitcoin.&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Il a généré une récompense de &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;50 BTC&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, mais ces BTC ne sont &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;pas dépensables&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; en raison d&#39;une spécificité technique du code.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ces 50 BTC ne font donc pas partie de l&#39;offre circulante.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-8" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Créé le &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;3 janvier 2009&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, est le premier bloc de la blockchain Bitcoin.&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Il a généré une récompense de &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;50 BTC&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, mais ces BTC ne sont &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;pas dépensables&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; en raison d&#39;une spécificité technique du code.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ces 50 BTC ne font donc pas partie de l&#39;offre circulante.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2170" y="3040" width="190" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v73s5uM-6vZ-ioVXGlIi-11" target="v73s5uM-6vZ-ioVXGlIi-12">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v73s5uM-6vZ-ioVXGlIi-11" target="v73s5uM-6vZ-ioVXGlIi-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2710" y="3010" />
@@ -963,62 +966,129 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-11" value="Critiques et opportunités" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-11" value="Critiques et opportunités" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2650" y="2940" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-12" value="&lt;p&gt;Consommation énergétique élevée&lt;/p&gt;&lt;p&gt;Scalabilité et frais de transaction&lt;/p&gt;&lt;p&gt;Centralisation du minage /&amp;nbsp;attaque à 51%&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-12" value="&lt;p&gt;Consommation énergétique élevée&lt;/p&gt;&lt;p&gt;Scalabilité et frais de transaction&lt;/p&gt;&lt;p&gt;Centralisation du minage /&amp;nbsp;attaque à 51%&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="2630" y="3040" width="160" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-22" value="&lt;div&gt;Bitcoin Improvement Proposals (BIPs)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-22" value="&lt;div&gt;Bitcoin Improvement Proposals (BIPs)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2270" y="3440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-24" value="&#xa;Segregated Witness (SegWit) – 2017&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-24" value="&#xa;Segregated Witness (SegWit) – 2017&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1950" y="3580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-25" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Résolution du problème de &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;malleability des transactions.&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Base pour le déploiement de solutions comme &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Lightning Network&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Augmentation de la capacité des blocs en séparant les données de signature des transactions.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-25" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Résolution du problème de &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;malleability des transactions.&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Base pour le déploiement de solutions comme &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Lightning Network&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Augmentation de la capacité des blocs en séparant les données de signature des transactions.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1900" y="3670" width="230" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-26" value="&lt;strong style=&quot;background-color: initial;&quot;&gt;Taproot &amp;amp; Schnorr Signatures – 2021&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-26" value="&lt;strong style=&quot;background-color: initial;&quot;&gt;Taproot &amp;amp; Schnorr Signatures – 2021&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="2230" y="3580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-27" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Ajout des &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;signatures Schnorr&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, une méthode de signature plus efficace et flexible que les signatures ECDSA.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Introduction de &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Taproot&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, qui améliore la confidentialité et l&#39;efficacité des transactions complexes, comme celles utilisant des scripts multi-signatures&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-27" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Ajout des &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;signatures Schnorr&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, une méthode de signature plus efficace et flexible que les signatures ECDSA.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Introduction de &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Taproot&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, qui améliore la confidentialité et l&#39;efficacité des transactions complexes, comme celles utilisant des scripts multi-signatures&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="2190" y="3670" width="230" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-28" value="&lt;h3&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Lightning Network (Off-Chain Scaling Solution)&lt;/font&gt;&lt;/strong&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-28" value="&lt;h3&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Lightning Network (Off-Chain Scaling Solution)&lt;/font&gt;&lt;/strong&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2490" y="3580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-29" value="&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;L&#39;idée a été proposée dès 2015, mais son adoption a progressé après l&#39;activation de SegWit.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solution de scalabilité de couche 2 permettant des micro-transactions rapides et peu coûteuses.&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-29" value="&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;L&#39;idée a été proposée dès 2015, mais son adoption a progressé après l&#39;activation de SegWit.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Solution de scalabilité de couche 2 permettant des micro-transactions rapides et peu coûteuses.&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="2470" y="3670" width="230" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-30" value="&#xa;CheckSequenceVerify (CSV) – 2016&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-30" value="&#xa;CheckSequenceVerify (CSV) – 2016&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2130" y="3900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-31" value="&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Introduction de fonctionnalités pour permettre des scripts conditionnels basés sur le temps (timelocks relatifs)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Renforcement des capacités de programmation dans Bitcoin.&lt;/span&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-31" value="&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Introduction de fonctionnalités pour permettre des scripts conditionnels basés sur le temps (timelocks relatifs)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Renforcement des capacités de programmation dans Bitcoin.&lt;/span&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="2080" y="3990" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-32" value="&lt;strong style=&quot;background-color: initial;&quot;&gt;OP_CLTV (CheckLockTimeVerify) – 2015&lt;br&gt;&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-32" value="&lt;strong style=&quot;background-color: initial;&quot;&gt;OP_CLTV (CheckLockTimeVerify) – 2015&lt;br&gt;&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2380" y="3900" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-33" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Ajout de scripts permettant des transactions verrouillées dans le temps (timelocks absolus).&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;-&amp;nbsp;&lt;/b&gt;Développement de fonctionnalités telles que les &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;escrow&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; et des mécanismes de gestion de fonds complexes&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-33" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Ajout de scripts permettant des transactions verrouillées dans le temps (timelocks absolus).&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;-&amp;nbsp;&lt;/b&gt;Développement de fonctionnalités telles que les &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;escrow&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; et des mécanismes de gestion de fonds complexes&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="2360" y="3990" width="220" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-34" value="&lt;h3&gt;&lt;strong&gt;P2SH (Pay-to-Script-Hash) – 2012&lt;/strong&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-34" value="&lt;h3&gt;&lt;strong&gt;P2SH (Pay-to-Script-Hash) – 2012&lt;/strong&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2640" y="3900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-35" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Permettre aux utilisateurs d’envoyer des fonds vers un script (plutôt qu’une clé publique) en ne dévoilant le script qu’au moment de dépenser les fonds.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;-&amp;nbsp;&lt;/b&gt;Facilitation des transactions multi-signatures.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Renforcement de la confidentialité et de la flexibilité dans les scénarios de dépense.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-35" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Permettre aux utilisateurs d’envoyer des fonds vers un script (plutôt qu’une clé publique) en ne dévoilant le script qu’au moment de dépenser les fonds.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;-&amp;nbsp;&lt;/b&gt;Facilitation des transactions multi-signatures.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Renforcement de la confidentialité et de la flexibilité dans les scénarios de dépense.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="2630" y="3990" width="210" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-36" value="&lt;h3&gt;&lt;strong style=&quot;background-color: initial; font-size: 12px;&quot;&gt;BIP 39 (Standardisation des Mnemonics) – 2013&lt;/strong&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-36" value="&lt;h3&gt;&lt;strong style=&quot;background-color: initial; font-size: 12px;&quot;&gt;BIP 39 (Standardisation des Mnemonics) – 2013&lt;/strong&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2160" y="4230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-37" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Définir un standard pour générer des portefeuilles HD (hierarchical deterministic) à partir d’une phrase mnémonique.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;-&amp;nbsp;&lt;/b&gt;Amélioration de l’expérience utilisateur.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Standardisation adoptée par la majorité des portefeuilles modernes.&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-37" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Définir un standard pour générer des portefeuilles HD (hierarchical deterministic) à partir d’une phrase mnémonique.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;-&amp;nbsp;&lt;/b&gt;Amélioration de l’expérience utilisateur.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Standardisation adoptée par la majorité des portefeuilles modernes.&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="2100" y="4330" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-38" value="&lt;strong style=&quot;background-color: initial;&quot;&gt;Bech32 (Adresses SegWit) – 2017&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-38" value="&lt;strong style=&quot;background-color: initial;&quot;&gt;Bech32 (Adresses SegWit) – 2017&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2460" y="4240" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="v73s5uM-6vZ-ioVXGlIi-39" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Introduire un nouveau format d’adresse plus compact et lisible, spécialement conçu pour SegWit.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Réduction des frais.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Prévention d’erreurs dans la saisie manuelle des adresses.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="v73s5uM-6vZ-ioVXGlIi-39" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Introduire un nouveau format d’adresse plus compact et lisible, spécialement conçu pour SegWit.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Réduction des frais.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Prévention d’erreurs dans la saisie manuelle des adresses.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="2400" y="4330" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="brHPKC-g--SUIAmpnRtD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="brHPKC-g--SUIAmpnRtD-1" target="brHPKC-g--SUIAmpnRtD-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="2990" />
+              <mxPoint x="580" y="2990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="brHPKC-g--SUIAmpnRtD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="brHPKC-g--SUIAmpnRtD-1" target="brHPKC-g--SUIAmpnRtD-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="2990" />
+              <mxPoint x="890" y="2990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="brHPKC-g--SUIAmpnRtD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="brHPKC-g--SUIAmpnRtD-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="621" y="2890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="brHPKC-g--SUIAmpnRtD-1" value="Rollups" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="2850" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="brHPKC-g--SUIAmpnRtD-2" value="Les &lt;strong&gt;rollups&lt;/strong&gt; sont une &lt;strong&gt;sous-catégorie de solutions Layer 2&lt;/strong&gt; qui fonctionnent en regroupant plusieurs transactions &quot;off-chain&quot; et en publiant leurs données sur la chaîne principale.&amp;nbsp;&lt;br&gt;Cela permet de réduire la quantité de données et de calculs traités directement sur la blockchain, tout en profitant de sa sécurité." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="350" y="2800" width="270" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="brHPKC-g--SUIAmpnRtD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="brHPKC-g--SUIAmpnRtD-3" target="brHPKC-g--SUIAmpnRtD-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="575" y="3090" />
+              <mxPoint x="575" y="3090" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="brHPKC-g--SUIAmpnRtD-3" value="&lt;meta charset=&quot;utf-8&quot;&gt;Optimistic Rollups (ex : Arbitrum, Optimism)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="3020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="brHPKC-g--SUIAmpnRtD-4" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Toutes les transactions sont valides par défaut, sauf preuve contraire.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Plus simples, mais les retraits peuvent être plus lents (période de contestation).&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Une période de contestation est ouverte, permettant à quiconque de contester une transaction invalide en fournissant une preuve de fraude.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="440" y="3120" width="270" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="brHPKC-g--SUIAmpnRtD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="brHPKC-g--SUIAmpnRtD-5" target="brHPKC-g--SUIAmpnRtD-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="3100" />
+              <mxPoint x="890" y="3100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="brHPKC-g--SUIAmpnRtD-5" value="&lt;meta charset=&quot;utf-8&quot;&gt;ZK-Rollups (ex : zkSync, StarkNet)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="3020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="brHPKC-g--SUIAmpnRtD-6" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Chaque lot de transactions est accompagné d&#39;une preuve mathématique (SNARK ou STARK) publiée sur le Layer 1&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- La preuve valide l&#39;ensemble du lot, rendant les contestations inutiles.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Utilisent des preuves cryptographiques (Zero-Knowledge Proofs) pour garantir la validité des transactions.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Plus rapides et sécurisés, mais plus complexes à développer.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="760" y="3120" width="270" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="brHPKC-g--SUIAmpnRtD-12" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- &lt;b&gt;S&lt;/b&gt;&lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;idechain&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; est une BC indépendante connectée à une BC&amp;nbsp; principale via un pont.&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Polygon PoS&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;, &lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;xDAI Chain&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- &lt;b&gt;S&lt;/b&gt;&lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;tate channels&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; permettent à deux parties de réaliser des transactions off-chain et d’enregistrer un état finalisé sur la BC principale.&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Lightning Network&lt;/strong&gt;&lt;br&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/strong&gt;&lt;div&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;- &lt;/strong&gt;&lt;b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;S&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;harding&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; divise une BC en plusieurs segments (shards) pour traiter les transactions en parallèle.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Future Ethereum 2.0 (avec sharding).&lt;/b&gt;&lt;/span&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="890" y="2790" width="320" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="brHPKC-g--SUIAmpnRtD-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.587;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="brHPKC-g--SUIAmpnRtD-1" target="brHPKC-g--SUIAmpnRtD-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="2890" as="sourcePoint" />
+            <mxPoint x="1030" y="2890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="brHPKC-g--SUIAmpnRtD-16" value="&amp;nbsp;/ /&amp;nbsp;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="brHPKC-g--SUIAmpnRtD-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
