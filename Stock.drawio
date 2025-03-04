@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="g_Xx2FTNX_MOuPDSISxh">
-    <mxGraphModel dx="1084" dy="1844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1590" dy="2437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,14 +21,14 @@
         <mxCell id="CdpsaVYIf3I9ejiMxp_a-1" value="Site ecommece&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Shopify&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="280" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="CdpsaVYIf3I9ejiMxp_a-2" value="Proposition d&#39;achat d&#39;inventaire&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$ 1000&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;frais de gestion : $ 600&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Marge : $ 400&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Investisseurs&amp;nbsp; &amp;nbsp; --&amp;gt; %50&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - Commerçant&amp;nbsp; --&amp;gt;&amp;nbsp; %50&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="101.25" width="230" height="197.5" as="geometry" />
+        <mxCell id="CdpsaVYIf3I9ejiMxp_a-2" value="&lt;b&gt;Offre d&#39;achat d&#39;inventaire&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Achat des produits TTC: $ &lt;b&gt;1000&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Vente de produits : $ 1500&lt;/div&gt;&lt;div&gt;- frais de gestion : 5%&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Marge : $ 430&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Rentabilité&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Investisseurs&amp;nbsp; &amp;nbsp; --&amp;gt; %50&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - Commerçant&amp;nbsp; --&amp;gt;&amp;nbsp; %50&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="389" y="70" width="230" height="228.75" as="geometry" />
         </mxCell>
         <mxCell id="CdpsaVYIf3I9ejiMxp_a-3" value="Commerçant" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="180" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CdpsaVYIf3I9ejiMxp_a-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&amp;nbsp;Temps de l&#39;offre --&amp;gt; 3 mois&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Rendement ---&amp;gt; %50&lt;/span&gt;&lt;/div&gt;&lt;div&gt;% Perte --&amp;gt; 20%&lt;/div&gt;&lt;div&gt;temps d&#39;attente --&amp;gt; 1 semaine&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="260" width="180" height="100" as="geometry" />
+        <mxCell id="CdpsaVYIf3I9ejiMxp_a-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Variables&amp;nbsp;&lt;/div&gt;&amp;nbsp;Temps de l&#39;offre --&amp;gt; 3 mois&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Rendement ---&amp;gt; %50&lt;/span&gt;&lt;/div&gt;&lt;div&gt;% Perte collateral --&amp;gt; 10%&lt;/div&gt;&lt;div&gt;Temps reception produit --&amp;gt; 1 semaine&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="439" y="268" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="CdpsaVYIf3I9ejiMxp_a-7" value="Investissur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="90" width="30" height="60" as="geometry" />
@@ -42,8 +42,8 @@
         <mxCell id="CdpsaVYIf3I9ejiMxp_a-14" value="Preuve d&#39;achat&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CdpsaVYIf3I9ejiMxp_a-15" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;1 ETH&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Collateral&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="604" y="410" width="80" height="100" as="geometry" />
+        <mxCell id="CdpsaVYIf3I9ejiMxp_a-15" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;$ 1100&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Collateral&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="590" y="410" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CdpsaVYIf3I9ejiMxp_a-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="CdpsaVYIf3I9ejiMxp_a-18" target="CdpsaVYIf3I9ejiMxp_a-2">
           <mxGeometry relative="1" as="geometry" />
@@ -61,7 +61,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CdpsaVYIf3I9ejiMxp_a-24" value="Token&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;StockToChain&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-50" width="120" height="110" as="geometry" />
+          <mxGeometry x="230" y="-40" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="CdpsaVYIf3I9ejiMxp_a-25" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" target="CdpsaVYIf3I9ejiMxp_a-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -75,7 +75,7 @@
             <mxPoint x="273" y="46" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CdpsaVYIf3I9ejiMxp_a-27" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="CdpsaVYIf3I9ejiMxp_a-28">
+        <mxCell id="CdpsaVYIf3I9ejiMxp_a-27" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" target="CdpsaVYIf3I9ejiMxp_a-28">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="682.89" y="470" as="sourcePoint" />
             <mxPoint x="682.89" y="560" as="targetPoint" />
@@ -83,6 +83,21 @@
         </mxCell>
         <mxCell id="CdpsaVYIf3I9ejiMxp_a-28" value="Mechanisme de liquidation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="622.8899999999999" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CdpsaVYIf3I9ejiMxp_a-29" value="Plateforme - Marketplace&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;API integré avec les plateformes de e-commerce&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Commerçant&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="610" width="350" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="CdpsaVYIf3I9ejiMxp_a-30" value="Plateforme - Marketplace&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;API integré avec les plateformes de e-commerce&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Investisseurs&amp;nbsp;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="624" y="610" width="350" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="CdpsaVYIf3I9ejiMxp_a-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CdpsaVYIf3I9ejiMxp_a-31" target="CdpsaVYIf3I9ejiMxp_a-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CdpsaVYIf3I9ejiMxp_a-31" value="Oracle" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CdpsaVYIf3I9ejiMxp_a-33" value="Facture" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="810" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
